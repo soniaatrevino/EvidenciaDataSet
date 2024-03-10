@@ -1,0 +1,1001 @@
+﻿ID_Producto,Producto,Cantidad,Precio_Total,Fecha_de_Venta,Color,Tamaño,Canal_de_Venta,Marca,Proveedor,Pais_de_Origen,Material,Edad
+P0503,Zapatos de cuero,1,43.64647041,01/21/2024,Verde,XL,Online,Urban Trends,Eco Fabrics Ltd.,China,Cuero,15
+P0551,Vestido estampado,39,1691.831581,01/23/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,15
+P0057,Zapatos de cuero,49,2024.794061,01/03/2024,Blanco,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Lana,15
+P0125,Camiseta algodón,12,317.7323277,01/06/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,India,Denim,15
+P0056,Pantalón denim,8,660.2501504,01/03/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,China,Algodón,15
+P0895,Vestido estampado,25,807.5386455,02/07/2024,Rojo,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Poliéster,15
+P0602,Zapatos de cuero,11,451.5581784,01/26/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Algodón,15
+P0384,Vestido estampado,19,659.2514703,01/16/2024,Rojo,L,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Algodón,15
+P0816,Zapatos de cuero,30,1006.957023,02/03/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Denim,15
+P0742,Vestido estampado,38,1248.854196,01/31/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,15
+P0830,Pantalón denim,44,4121.53647,02/04/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,15
+P0462,Camiseta algodón,16,422.9489146,01/20/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Poliéster,15
+P0916,Zapatos de cuero,2,68.42167262,02/08/2024,Rojo,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Cuero,15
+P0110,Vestido estampado,49,1956.973775,01/05/2024,Rojo,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Poliéster,15
+P0364,Pantalón denim,5,427.9531607,01/16/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,15
+P0034,Pantalón denim,32,2559.644727,01/02/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Denim,15
+P0645,Pantalón denim,49,4191.206297,01/27/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,15
+P0106,Bufanda de lana,30,1636.74811,01/05/2024,Rojo,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Lana,15
+P0078,Zapatos de cuero,32,1203.513451,01/04/2024,Azul,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Algodón,15
+P0003,Bufanda de lana,48,2143.327777,01/01/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Lana,15
+P0537,Pantalón denim,41,3981.214322,01/23/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Denim,15
+P0281,Zapatos de cuero,20,728.8859922,01/12/2024,Verde,S,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Lana,15
+P0154,Pantalón denim,40,4119.055758,01/07/2024,Rojo,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Algodón,15
+P0344,Zapatos de cuero,3,106.4581726,01/15/2024,Verde,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Cuero,15
+P0501,Zapatos de cuero,13,593.5922591,01/21/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Poliéster,16
+P0618,Pantalón denim,29,2727.72976,01/26/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,16
+P0216,Camiseta algodón,17,365.4605505,01/09/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,16
+P0974,Pantalón denim,17,2305.822094,02/10/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Lana,16
+P0069,Bufanda de lana,4,217.7215313,01/03/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,16
+P0407,Bufanda de lana,24,1163.029369,01/17/2024,Rojo,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Lana,16
+P0068,Camiseta algodón,29,568.0829718,01/03/2024,Verde,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Poliéster,16
+P0287,Zapatos de cuero,17,747.3769787,01/12/2024,Azul,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Cuero,16
+P0861,Pantalón denim,46,4466.412718,02/05/2024,Azul,M,Tienda física,Classic Elegance,Global Textiles Inc.,China,Algodón,16
+P0644,Bufanda de lana,3,160.4833207,01/27/2024,Rojo,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Algodón,16
+P0686,Vestido estampado,9,336.6554036,01/29/2024,Rojo,XL,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Denim,16
+P0843,Camiseta algodón,38,955.9224403,02/05/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Lana,16
+P0144,Camiseta algodón,9,235.4667605,01/06/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Poliéster,16
+P0045,Camiseta algodón,27,608.6838614,01/02/2024,Negro,M,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Lana,16
+P0017,Bufanda de lana,30,1533.632165,01/01/2024,Rojo,M,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Poliéster,16
+P0470,Bufanda de lana,27,1371.830727,01/20/2024,Negro,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,16
+P0766,Zapatos de cuero,20,904.7927614,02/01/2024,Negro,S,Online,Urban Trends,Global Textiles Inc.,México,Denim,16
+P0308,Camiseta algodón,38,918.8832542,01/13/2024,Azul,S,Online,Urban Trends,HighTech Materials S.A.,India,Algodón,17
+P0620,Vestido estampado,22,929.5920159,01/26/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,17
+P0437,Zapatos de cuero,24,952.3200143,01/19/2024,Rojo,M,Online,Urban Trends,Eco Fabrics Ltd.,China,Denim,17
+P0638,Vestido estampado,48,1731.455919,01/27/2024,Blanco,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Poliéster,17
+P0775,Zapatos de cuero,46,2114.905312,02/02/2024,Blanco,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,17
+P0834,Camiseta algodón,37,827.2779359,02/04/2024,Rojo,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Poliéster,17
+P0130,Pantalón denim,36,2901.159496,01/06/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Denim,17
+P0163,Vestido estampado,47,1851.934305,01/07/2024,Verde,XL,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Algodón,17
+P0574,Camiseta algodón,18,382.5946056,01/24/2024,Blanco,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Lana,17
+P0151,Vestido estampado,6,215.2641678,01/07/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,17
+P0176,Zapatos de cuero,34,1412.591898,01/08/2024,Negro,L,Online,Modern Fusion,HighTech Materials S.A.,China,Cuero,17
+P0854,Bufanda de lana,49,2623.92821,02/05/2024,Verde,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Poliéster,17
+P0313,Pantalón denim,41,3758.397943,01/14/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Poliéster,17
+P0778,Bufanda de lana,5,268.4969511,02/02/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,17
+P0661,Camiseta algodón,24,665.8474791,01/28/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,17
+P0243,Pantalón denim,36,2887.522236,01/11/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,17
+P0987,Camiseta algodón,3,69.33868846,02/11/2024,Azul,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Lana,18
+P0164,Camiseta algodón,9,188.9249271,01/07/2024,Negro,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,18
+P0498,Zapatos de cuero,19,729.0359938,01/21/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Algodón,18
+P0699,Bufanda de lana,21,1004.594704,01/30/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,México,Lana,18
+P0762,Zapatos de cuero,20,883.629983,02/01/2024,Verde,L,Online,Urban Trends,HighTech Materials S.A.,México,Algodón,18
+P0650,Bufanda de lana,14,737.9470878,01/28/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,18
+P0704,Pantalón denim,13,1190.016575,01/30/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Algodón,18
+P0468,Pantalón denim,31,2863.833908,01/20/2024,Blanco,XL,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Algodón,18
+P0510,Camiseta algodón,23,622.7563795,01/22/2024,Azul,L,Online,Urban Trends,HighTech Materials S.A.,Turquía,Lana,18
+P0134,Bufanda de lana,1,55.71339898,01/06/2024,Rojo,S,Online,Urban Trends,Eco Fabrics Ltd.,India,Denim,18
+P0531,Bufanda de lana,18,1005.450545,01/23/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Poliéster,18
+P0117,Pantalón denim,33,2761.043579,01/05/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Cuero,18
+P0089,Pantalón denim,46,3948.9218,01/04/2024,Azul,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Lana,18
+P0527,Pantalón denim,3,223.1329742,01/22/2024,Verde,XL,Online,Urban Trends,HighTech Materials S.A.,India,Algodón,18
+P0351,Vestido estampado,8,324.0405704,01/15/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,Turquía,Lana,18
+P0182,Bufanda de lana,23,1067.947863,01/08/2024,Azul,M,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Poliéster,18
+P0177,Vestido estampado,28,1026.534042,01/08/2024,Verde,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,18
+P0748,Vestido estampado,23,905.1026501,02/01/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,18
+P0713,Bufanda de lana,6,311.1246052,01/30/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Algodón,18
+P0921,Zapatos de cuero,4,173.8327719,02/08/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,18
+P0818,Zapatos de cuero,7,312.3842832,02/04/2024,Negro,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Lana,18
+P0221,Camiseta algodón,48,1273.37673,01/10/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,India,Cuero,18
+P0224,Bufanda de lana,21,1167.524596,01/10/2024,Azul,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Poliéster,18
+P0251,Bufanda de lana,31,1780.259093,01/11/2024,Negro,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,18
+P0004,Vestido estampado,12,449.46763,01/01/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Denim,18
+P0296,Camiseta algodón,40,1000.170024,01/13/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,18
+P0005,Zapatos de cuero,41,1479.798196,01/01/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,18
+P0263,Camiseta algodón,42,1084.277941,01/11/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Lana,18
+P0258,Bufanda de lana,47,2530.888288,01/11/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Algodón,18
+P0812,Zapatos de cuero,36,1544.375569,02/03/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Algodón,18
+P0920,Zapatos de cuero,42,1660.481966,02/08/2024,Blanco,M,Tienda física,Classic Elegance,Global Textiles Inc.,México,Algodón,18
+P0389,Zapatos de cuero,2,75.2006363,01/17/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,19
+P0569,Pantalón denim,17,1537.722848,01/24/2024,Rojo,XL,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Algodón,19
+P0983,Camiseta algodón,45,1165.439001,02/10/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,19
+P0708,Pantalón denim,36,5929.750207,01/30/2024,Blanco,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,19
+P0181,Vestido estampado,37,1360.689984,01/08/2024,Azul,M,Online,Modern Fusion,Global Textiles Inc.,México,Denim,19
+P0746,Camiseta algodón,40,1212.760957,02/01/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,19
+P0473,Bufanda de lana,48,2573.275472,01/20/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Poliéster,19
+P0515,Camiseta algodón,8,236.2801356,01/22/2024,Blanco,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Lana,19
+P0935,Vestido estampado,14,454.3502949,02/08/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,19
+P0964,Bufanda de lana,33,1570.023913,02/10/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,19
+P0376,Pantalón denim,27,2501.696731,01/16/2024,Rojo,S,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Poliéster,19
+P0784,Pantalón denim,30,2709.201027,02/02/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,México,Lana,19
+P0064,Bufanda de lana,20,963.2684266,01/03/2024,Blanco,L,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,19
+P0443,Vestido estampado,21,818.3112708,01/19/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Poliéster,19
+P0085,Pantalón denim,35,3028.657839,01/04/2024,Azul,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,19
+P0087,Vestido estampado,25,1017.01789,01/04/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,19
+P0580,Bufanda de lana,36,2059.542058,01/25/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,19
+P0031,Camiseta algodón,16,405.7103508,01/02/2024,Blanco,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,20
+P0841,Pantalón denim,49,4412.907021,02/05/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,20
+P0696,Camiseta algodón,29,663.2561632,01/29/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Cuero,20
+P0284,Pantalón denim,23,1631.898291,01/12/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,20
+P0278,Bufanda de lana,44,2016.663373,01/12/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Algodón,20
+P0901,Bufanda de lana,49,2911.566588,02/07/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,20
+P0714,Camiseta algodón,37,1061.306711,01/30/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,20
+P0687,Vestido estampado,41,1719.712707,01/29/2024,Blanco,L,Online,Urban Trends,HighTech Materials S.A.,México,Denim,20
+P0859,Vestido estampado,20,836.083254,02/05/2024,Azul,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Poliéster,20
+P0905,Pantalón denim,14,1165.361379,02/07/2024,Negro,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Cuero,20
+P0707,Camiseta algodón,12,328.7050735,01/30/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,20
+P0710,Bufanda de lana,26,1021.437199,01/30/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,20
+P0508,Bufanda de lana,45,2274.291044,01/22/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Denim,20
+P0882,Zapatos de cuero,25,1150.948761,02/06/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,20
+P0972,Pantalón denim,31,2753.073541,02/10/2024,Rojo,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,20
+P0103,Vestido estampado,46,2038.440202,01/05/2024,Blanco,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Algodón,20
+P0646,Camiseta algodón,13,330.5073423,01/27/2024,Rojo,S,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Algodón,20
+P0059,Pantalón denim,11,882.624158,01/03/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,20
+P0538,Zapatos de cuero,8,316.0431231,01/23/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Algodón,20
+P0230,Pantalón denim,6,431.4146626,01/10/2024,Verde,L,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Poliéster,20
+P0309,Camiseta algodón,8,230.5989502,01/13/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Poliéster,20
+P0520,Zapatos de cuero,29,1333.39162,01/22/2024,Blanco,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Poliéster,20
+P0108,Pantalón denim,5,388.6108234,01/05/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,20
+P0383,Bufanda de lana,7,386.5034568,01/16/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,20
+P0666,Pantalón denim,11,1063.533098,01/28/2024,Verde,L,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Poliéster,20
+P0976,Zapatos de cuero,24,1694.363555,02/10/2024,Negro,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Cuero,20
+P0845,Zapatos de cuero,41,1691.895355,02/05/2024,Rojo,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Cuero,21
+P0563,Vestido estampado,46,2058.108585,01/24/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,21
+P0408,Zapatos de cuero,11,455.6359045,01/17/2024,Negro,S,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Lana,21
+P0608,Bufanda de lana,14,844.2987601,01/26/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,21
+P0013,Bufanda de lana,46,2391.750921,01/01/2024,Azul,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Algodón,21
+P0509,Vestido estampado,41,1655.484706,01/22/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Algodón,21
+P0432,Camiseta algodón,36,917.5294282,01/18/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,21
+P0420,Vestido estampado,44,1589.166031,01/18/2024,Negro,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Denim,21
+P0819,Zapatos de cuero,30,1404.882917,02/04/2024,Negro,M,Tienda física,Classic Elegance,Global Textiles Inc.,México,Poliéster,21
+P0822,Bufanda de lana,10,522.4370808,02/04/2024,Blanco,M,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,21
+P0086,Zapatos de cuero,2,77.09537284,01/04/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Denim,21
+P0485,Zapatos de cuero,41,2126.774139,01/21/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,China,Denim,21
+P0201,Vestido estampado,8,248.8807833,01/09/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,21
+P0656,Vestido estampado,21,878.3815438,01/28/2024,Azul,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Lana,21
+P0688,Camiseta algodón,30,695.964432,01/29/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,21
+P0658,Camiseta algodón,48,1126.604846,01/28/2024,Azul,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Algodón,21
+P0846,Camiseta algodón,31,730.5522128,02/05/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,21
+P0660,Camiseta algodón,16,392.3086066,01/28/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Cuero,21
+P0323,Camiseta algodón,9,250.9423004,01/14/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,21
+P0876,Camiseta algodón,44,960.3117397,02/06/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,21
+P0913,Zapatos de cuero,1,43.31802824,02/08/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Denim,22
+P0534,Zapatos de cuero,40,1755.982991,01/23/2024,Azul,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Denim,22
+P0544,Vestido estampado,37,1716.846843,01/23/2024,Blanco,M,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Cuero,22
+P0526,Pantalón denim,47,7478.273419,01/22/2024,Azul,S,Online,Urban Trends,Global Textiles Inc.,China,Algodón,22
+P0324,Camiseta algodón,42,1043.156716,01/14/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,22
+P0522,Pantalón denim,18,1887.447828,01/22/2024,Rojo,S,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,22
+P0616,Bufanda de lana,28,1554.792464,01/26/2024,Verde,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,22
+P0606,Vestido estampado,13,978.7636371,01/26/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,India,Lana,22
+P0269,Bufanda de lana,27,1733.833039,01/12/2024,Negro,L,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Algodón,22
+P0960,Zapatos de cuero,15,601.3483262,02/09/2024,Rojo,M,Online,Urban Trends,Eco Fabrics Ltd.,México,Denim,22
+P0205,Zapatos de cuero,37,1560.763894,01/09/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,22
+P0694,Zapatos de cuero,37,1420.809585,01/29/2024,Rojo,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Algodón,22
+P0757,Vestido estampado,34,1382.633435,02/01/2024,Negro,XL,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,22
+P0458,Vestido estampado,5,198.5341282,01/20/2024,Negro,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,22
+P0360,Camiseta algodón,28,723.2265458,01/15/2024,Rojo,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Lana,22
+P0942,Bufanda de lana,17,1073.172591,02/09/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Poliéster,22
+P0747,Camiseta algodón,28,783.0027718,02/01/2024,Negro,S,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Denim,22
+P0380,Vestido estampado,47,1962.235929,01/16/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,22
+P0434,Zapatos de cuero,2,85.3879951,01/19/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,22
+P0938,Pantalón denim,28,2192.683142,02/09/2024,Azul,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,22
+P0724,Vestido estampado,40,1590.895569,01/31/2024,Rojo,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Lana,22
+P0425,Zapatos de cuero,7,273.3414371,01/18/2024,Azul,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Algodón,22
+P0174,Vestido estampado,18,719.8847252,01/08/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,23
+P0858,Pantalón denim,6,497.1562966,02/05/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,México,Lana,23
+P0359,Vestido estampado,43,1943.244868,01/15/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Cuero,23
+P0524,Camiseta algodón,27,728.9232049,01/22/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,23
+P0639,Camiseta algodón,19,457.2562078,01/27/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Algodón,23
+P0693,Camiseta algodón,48,2502.511055,01/29/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Denim,23
+P0969,Camiseta algodón,21,604.9512855,02/10/2024,Verde,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Cuero,23
+P0803,Vestido estampado,37,1475.2777,02/03/2024,Verde,S,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Lana,23
+P0385,Vestido estampado,28,1250.352482,01/17/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Lana,23
+P0430,Pantalón denim,49,4433.62311,01/18/2024,Rojo,S,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,23
+P0381,Camiseta algodón,31,805.1951073,01/16/2024,Blanco,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Lana,23
+P0676,Bufanda de lana,10,516.44734,01/29/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,23
+P0548,Zapatos de cuero,24,914.3105862,01/23/2024,Rojo,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Poliéster,23
+P0027,Vestido estampado,38,1784.704,01/02/2024,Negro,M,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Denim,23
+P0423,Bufanda de lana,47,4123.893324,01/18/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,23
+P0352,Zapatos de cuero,2,77.87193278,01/15/2024,Rojo,XL,Online,Urban Trends,HighTech Materials S.A.,India,Poliéster,23
+P0171,Bufanda de lana,49,2731.124148,01/08/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Denim,23
+P0286,Camiseta algodón,40,2111.075896,01/12/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,India,Denim,23
+P0929,Vestido estampado,9,364.3458147,02/08/2024,Verde,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,24
+P0007,Zapatos de cuero,14,629.3395014,01/01/2024,Blanco,L,Online,Modern Fusion,Global Textiles Inc.,India,Lana,24
+P0417,Zapatos de cuero,19,737.7446961,01/18/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,24
+P0028,Pantalón denim,26,2382.330086,01/02/2024,Blanco,L,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Poliéster,24
+P0777,Zapatos de cuero,10,433.9591354,02/02/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Denim,24
+P0255,Pantalón denim,42,3645.885312,01/11/2024,Blanco,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Denim,24
+P0857,Zapatos de cuero,26,1148.838518,02/05/2024,Verde,S,Online,Urban Trends,Eco Fabrics Ltd.,México,Lana,24
+P0254,Camiseta algodón,41,1057.534483,01/11/2024,Azul,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Lana,24
+P0589,Pantalón denim,35,3226.253672,01/25/2024,Verde,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Algodón,24
+P0046,Pantalón denim,46,3331.744981,01/02/2024,Blanco,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Poliéster,24
+P0542,Vestido estampado,45,1882.765826,01/23/2024,Negro,M,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,24
+P0265,Zapatos de cuero,7,301.0820956,01/12/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Cuero,24
+P0461,Bufanda de lana,28,1623.584545,01/20/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Cuero,24
+P0924,Bufanda de lana,43,2374.155334,02/08/2024,Rojo,M,Online,Urban Trends,HighTech Materials S.A.,India,Lana,24
+P0744,Camiseta algodón,21,580.5332113,01/31/2024,Negro,XL,Online,Urban Trends,Global Textiles Inc.,India,Lana,24
+P0124,Bufanda de lana,22,1242.976634,01/06/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,24
+P0519,Camiseta algodón,48,1478.21623,01/22/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,India,Poliéster,24
+P0334,Vestido estampado,29,1019.684142,01/14/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Lana,24
+P0486,Pantalón denim,11,975.4594191,01/21/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,24
+P0339,Bufanda de lana,11,603.3255431,01/15/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,24
+P0668,Vestido estampado,26,930.6891765,01/28/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,24
+P0049,Bufanda de lana,37,2126.530142,01/03/2024,Blanco,M,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,25
+P0603,Camiseta algodón,12,365.9128962,01/26/2024,Rojo,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Poliéster,25
+P0126,Pantalón denim,39,3671.822061,01/06/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Poliéster,25
+P0817,Vestido estampado,23,862.2335262,02/04/2024,Negro,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,25
+P0477,Camiseta algodón,35,862.8424171,01/20/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,China,Denim,25
+P0146,Bufanda de lana,4,369.5205,01/07/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,25
+P0494,Bufanda de lana,9,501.4258766,01/21/2024,Azul,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,25
+P0394,Bufanda de lana,6,347.7012393,01/17/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,25
+P0763,Bufanda de lana,41,2543.216284,02/01/2024,Azul,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Algodón,25
+P0786,Bufanda de lana,39,2066.467056,02/02/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,25
+P0986,Vestido estampado,42,1821.181735,02/11/2024,Verde,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Poliéster,25
+P0844,Zapatos de cuero,1,38.63309729,02/05/2024,Azul,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Denim,25
+P0640,Bufanda de lana,47,2659.684813,01/27/2024,Blanco,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Poliéster,25
+P0892,Pantalón denim,18,1373.293605,02/07/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Lana,25
+P0700,Zapatos de cuero,31,1337.409122,01/30/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Lana,25
+P0266,Bufanda de lana,39,2152.717255,01/12/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,China,Denim,25
+P0555,Zapatos de cuero,16,746.6804524,01/24/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Lana,25
+P0691,Vestido estampado,14,541.6322026,01/29/2024,Blanco,S,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,25
+P0919,Pantalón denim,29,2498.569052,02/08/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,India,Denim,25
+P0237,Camiseta algodón,15,425.228035,01/10/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,25
+P0849,Pantalón denim,41,3282.822619,02/05/2024,Azul,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Algodón,26
+P0150,Bufanda de lana,46,3092.175573,01/07/2024,Blanco,M,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,26
+P0282,Vestido estampado,27,1017.358139,01/12/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Denim,26
+P0604,Camiseta algodón,43,1005.898716,01/26/2024,Negro,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Denim,26
+P0365,Pantalón denim,15,1195.897409,01/16/2024,Rojo,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Algodón,26
+P0951,Zapatos de cuero,5,202.1033596,02/09/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,India,Denim,26
+P0074,Pantalón denim,36,3436.432268,01/04/2024,Negro,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Algodón,26
+P0184,Bufanda de lana,17,980.5063654,01/08/2024,Blanco,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Cuero,26
+P0234,Pantalón denim,41,3600.245657,01/10/2024,Negro,S,Online,Modern Fusion,Eco Fabrics Ltd.,China,Algodón,26
+P0319,Bufanda de lana,37,1865.423628,01/14/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,26
+P0052,Bufanda de lana,7,366.4894551,01/03/2024,Negro,L,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Poliéster,26
+P0388,Zapatos de cuero,13,487.9322221,01/17/2024,Verde,XL,Online,Urban Trends,Eco Fabrics Ltd.,India,Algodón,26
+P0212,Bufanda de lana,14,1194.378186,01/09/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Cuero,26
+P0188,Zapatos de cuero,15,705.9080262,01/08/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,26
+P0084,Camiseta algodón,14,396.2078532,01/04/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,26
+P0911,Pantalón denim,25,2517.516208,02/07/2024,Blanco,M,Online,Urban Trends,Global Textiles Inc.,India,Poliéster,27
+P0016,Bufanda de lana,30,1788.773834,01/01/2024,Negro,XL,Online,Urban Trends,HighTech Materials S.A.,India,Cuero,27
+P0081,Bufanda de lana,29,1731.320908,01/04/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,27
+P0689,Vestido estampado,4,145.1488047,01/29/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,México,Lana,27
+P0855,Camiseta algodón,21,577.7175376,02/05/2024,Azul,S,Online,Urban Trends,Eco Fabrics Ltd.,India,Poliéster,27
+P0090,Pantalón denim,16,1528.879484,01/04/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,27
+P0864,Pantalón denim,23,2144.649092,02/05/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,China,Denim,27
+P0499,Zapatos de cuero,27,1144.361491,01/21/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,Turquía,Poliéster,27
+P0866,Camiseta algodón,46,1076.855531,02/06/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,27
+P0311,Vestido estampado,45,1630.528641,01/13/2024,Azul,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,27
+P0750,Bufanda de lana,48,2806.810057,02/01/2024,Rojo,S,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Poliéster,27
+P0836,Bufanda de lana,24,1601.145376,02/04/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,India,Lana,27
+P0893,Vestido estampado,15,569.9644416,02/07/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,27
+P0634,Pantalón denim,24,2202.830973,01/27/2024,Rojo,XL,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Lana,27
+P0491,Pantalón denim,7,635.1212289,01/21/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,India,Lana,27
+P0743,Zapatos de cuero,13,583.6242565,01/31/2024,Negro,M,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Algodón,27
+P0593,Vestido estampado,6,237.7470749,01/25/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Lana,27
+P0226,Vestido estampado,23,989.8240822,01/10/2024,Negro,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Poliéster,27
+P0907,Vestido estampado,3,123.7468799,02/07/2024,Azul,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Cuero,27
+P0840,Bufanda de lana,6,274.8889219,02/04/2024,Rojo,L,Online,Urban Trends,HighTech Materials S.A.,México,Lana,27
+P0731,Bufanda de lana,36,2266.657631,01/31/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Poliéster,27
+P0787,Bufanda de lana,6,335.4612686,02/02/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Algodón,27
+P0382,Vestido estampado,17,641.5333129,01/16/2024,Rojo,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Denim,28
+P0965,Pantalón denim,36,3302.743045,02/10/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,China,Cuero,28
+P0362,Pantalón denim,48,4626.394971,01/16/2024,Rojo,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Poliéster,28
+P0424,Pantalón denim,25,2457.075393,01/18/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,28
+P0419,Zapatos de cuero,40,1762.879012,01/18/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,28
+P0870,Zapatos de cuero,2,94.04283037,02/06/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Denim,28
+P0204,Zapatos de cuero,13,552.5092073,01/09/2024,Azul,S,Online,Urban Trends,HighTech Materials S.A.,México,Poliéster,28
+P0168,Vestido estampado,40,1886.215496,01/07/2024,Azul,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Cuero,28
+P0099,Vestido estampado,5,207.4913155,01/05/2024,Negro,S,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,28
+P0160,Vestido estampado,41,1848.623016,01/07/2024,Rojo,M,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,28
+P0186,Pantalón denim,32,2816.542406,01/08/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,India,Cuero,28
+P0605,Bufanda de lana,19,1059.572836,01/26/2024,Rojo,L,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Algodón,28
+P0120,Camiseta algodón,2,52.3431781,01/05/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Algodón,28
+P0670,Camiseta algodón,5,133.448375,01/28/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,China,Denim,28
+P0583,Vestido estampado,21,859.1086706,01/25/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,28
+P0026,Zapatos de cuero,44,1872.937429,01/02/2024,Rojo,S,Online,Urban Trends,Global Textiles Inc.,Turquía,Cuero,28
+P0953,Bufanda de lana,21,1204.54195,02/09/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,29
+P0561,Pantalón denim,39,3482.231466,01/24/2024,Verde,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,29
+P0623,Camiseta algodón,11,257.0954575,01/26/2024,Rojo,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Cuero,29
+P0042,Pantalón denim,7,668.0468351,01/02/2024,Negro,S,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Poliéster,29
+P0933,Pantalón denim,34,3370.986152,02/08/2024,Verde,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,29
+P0079,Bufanda de lana,22,1358.388507,01/04/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,29
+P0705,Bufanda de lana,23,1445.113496,01/30/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Poliéster,29
+P0179,Pantalón denim,45,4380.286102,01/08/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,29
+P0722,Camiseta algodón,31,831.078391,01/31/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Denim,29
+P0093,Vestido estampado,35,1597.44978,01/04/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,29
+P0142,Pantalón denim,24,2152.58274,01/06/2024,Verde,XL,Online,Urban Trends,Eco Fabrics Ltd.,India,Cuero,29
+P0371,Zapatos de cuero,15,644.1631985,01/16/2024,Negro,S,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Algodón,29
+P0692,Bufanda de lana,14,848.3090082,01/29/2024,Negro,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Lana,29
+P0883,Vestido estampado,13,628.4213128,02/06/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Cuero,30
+P0207,Pantalón denim,18,1547.367184,01/09/2024,Azul,XL,Online,Urban Trends,Global Textiles Inc.,Turquía,Cuero,30
+P0094,Pantalón denim,23,1861.123405,01/04/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Algodón,30
+P0098,Bufanda de lana,47,2771.417258,01/05/2024,Rojo,M,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Algodón,30
+P0063,Bufanda de lana,6,407.4444704,01/03/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,30
+P0863,Zapatos de cuero,41,1862.743002,02/05/2024,Verde,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,30
+P0649,Vestido estampado,16,636.5369333,01/28/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,México,Cuero,30
+P0594,Zapatos de cuero,4,184.7812273,01/25/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,30
+P0387,Zapatos de cuero,27,1071.054974,01/17/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,30
+P0931,Vestido estampado,32,1469.636913,02/08/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Denim,30
+P0611,Zapatos de cuero,8,364.3697642,01/26/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Denim,30
+P0837,Camiseta algodón,49,1533.477805,02/04/2024,Blanco,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Lana,30
+P0428,Bufanda de lana,20,1299.292627,01/18/2024,Blanco,S,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Poliéster,30
+P0577,Zapatos de cuero,16,667.3597978,01/25/2024,Azul,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Lana,30
+P0032,Camiseta algodón,46,1197.735912,01/02/2024,Verde,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Cuero,30
+P0918,Vestido estampado,17,776.0216042,02/08/2024,Blanco,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Denim,30
+P0386,Zapatos de cuero,10,477.9548429,01/17/2024,Azul,XL,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Cuero,30
+P0211,Bufanda de lana,16,872.7792831,01/09/2024,Rojo,L,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Denim,30
+P0474,Zapatos de cuero,11,478.2642601,01/20/2024,Blanco,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Lana,31
+P0890,Camiseta algodón,34,971.264521,02/07/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Algodón,31
+P0152,Pantalón denim,28,5600.585055,01/07/2024,Rojo,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,31
+P0682,Camiseta algodón,42,1070.058747,01/29/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,31
+P0946,Pantalón denim,21,2571.019054,02/09/2024,Verde,M,Tienda física,Classic Elegance,Global Textiles Inc.,China,Lana,31
+P0189,Zapatos de cuero,4,181.0892035,01/08/2024,Rojo,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,31
+P0922,Camiseta algodón,9,246.5925453,02/08/2024,Azul,L,Online,Urban Trends,HighTech Materials S.A.,China,Algodón,31
+P0285,Zapatos de cuero,48,2008.951947,01/12/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Algodón,31
+P0030,Vestido estampado,45,1938.061364,01/02/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,India,Cuero,31
+P0599,Bufanda de lana,35,2028.788203,01/25/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Algodón,31
+P0426,Camiseta algodón,48,1360.148854,01/18/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,31
+P0914,Pantalón denim,39,3716.807556,02/08/2024,Negro,M,Online,Urban Trends,HighTech Materials S.A.,Turquía,Algodón,31
+P0977,Zapatos de cuero,33,1331.929859,02/10/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,India,Lana,31
+P0637,Bufanda de lana,12,610.5797538,01/27/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Denim,31
+P0346,Zapatos de cuero,4,179.4487396,01/15/2024,Blanco,M,Online,Modern Fusion,Global Textiles Inc.,India,Denim,31
+P0412,Bufanda de lana,3,190.1657505,01/18/2024,Negro,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Algodón,31
+P0936,Vestido estampado,5,194.6871604,02/08/2024,Rojo,M,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Lana,31
+P0438,Bufanda de lana,9,541.4888775,01/19/2024,Verde,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Poliéster,31
+P0768,Camiseta algodón,42,1140.021278,02/01/2024,Negro,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Denim,31
+P0195,Bufanda de lana,36,2043.362162,01/09/2024,Blanco,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Poliéster,31
+P0062,Zapatos de cuero,37,1597.086525,01/03/2024,Blanco,L,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,32
+P0433,Pantalón denim,19,1688.256858,01/19/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Algodón,32
+P0363,Bufanda de lana,26,1621.386007,01/16/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,32
+P0729,Camiseta algodón,30,853.9864867,01/31/2024,Negro,XL,Online,Urban Trends,Eco Fabrics Ltd.,China,Algodón,32
+P0023,Zapatos de cuero,14,534.6177715,01/01/2024,Blanco,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Denim,32
+P0993,Pantalón denim,8,715.438212,02/11/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,32
+P0465,Bufanda de lana,40,2505.886365,01/20/2024,Negro,M,Online,Urban Trends,HighTech Materials S.A.,Turquía,Cuero,32
+P0572,Vestido estampado,11,464.4621137,01/24/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,32
+P0928,Bufanda de lana,28,1482.645482,02/08/2024,Blanco,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Cuero,32
+P0322,Zapatos de cuero,24,1071.692185,01/14/2024,Negro,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,32
+P0673,Pantalón denim,14,1272.106038,01/29/2024,Blanco,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Algodón,32
+P0288,Zapatos de cuero,13,566.0295205,01/12/2024,Blanco,XL,Online,Urban Trends,Global Textiles Inc.,China,Poliéster,32
+P0342,Bufanda de lana,27,1767.850206,01/15/2024,Negro,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Cuero,32
+P0709,Vestido estampado,16,710.0680388,01/30/2024,Azul,XL,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Denim,32
+P0971,Zapatos de cuero,43,2047.238652,02/10/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,32
+P0139,Pantalón denim,42,3480.715777,01/06/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Lana,32
+P0958,Camiseta algodón,18,502.3121065,02/09/2024,Negro,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Denim,32
+P0305,Bufanda de lana,48,2917.409536,01/13/2024,Rojo,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Lana,32
+P0615,Bufanda de lana,21,1388.700898,01/26/2024,Blanco,L,Online,Urban Trends,HighTech Materials S.A.,India,Cuero,33
+P0325,Pantalón denim,11,1043.108499,01/14/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,China,Denim,33
+P0076,Camiseta algodón,33,855.4018461,01/04/2024,Blanco,XL,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Denim,33
+P0799,Zapatos de cuero,45,1918.071958,02/03/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,33
+P0209,Pantalón denim,41,4274.353592,01/09/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,33
+P0804,Pantalón denim,10,951.6884764,02/03/2024,Negro,L,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Denim,33
+P0304,Bufanda de lana,21,1114.787473,01/13/2024,Verde,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Lana,33
+P0222,Zapatos de cuero,38,1718.956594,01/10/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Cuero,33
+P0375,Zapatos de cuero,20,1761.873256,01/16/2024,Rojo,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Denim,33
+P0811,Pantalón denim,37,3476.957943,02/03/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,China,Lana,33
+P0868,Zapatos de cuero,4,180.7700043,02/06/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,33
+P0400,Zapatos de cuero,7,330.3986879,01/17/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,33
+P0755,Zapatos de cuero,3,119.958526,02/01/2024,Azul,S,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Cuero,33
+P0135,Zapatos de cuero,38,1480.855286,01/06/2024,Verde,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Cuero,33
+P0720,Bufanda de lana,38,2188.094546,01/30/2024,Blanco,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,33
+P0745,Pantalón denim,33,2750.673949,02/01/2024,Negro,S,Online,Urban Trends,HighTech Materials S.A.,India,Denim,33
+P0492,Vestido estampado,14,639.7805981,01/21/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,33
+P0035,Vestido estampado,25,1067.153356,01/02/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Poliéster,33
+P0404,Vestido estampado,18,794.3791904,01/17/2024,Azul,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Denim,33
+P0706,Bufanda de lana,8,759.1021196,01/30/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Denim,33
+P0245,Zapatos de cuero,28,1454.454861,01/11/2024,Azul,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Poliéster,34
+P0823,Pantalón denim,33,2757.265324,02/04/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Poliéster,34
+P0008,Bufanda de lana,1,64.4307619,01/01/2024,Negro,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Lana,34
+P0535,Pantalón denim,10,1027.154571,01/23/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,China,Denim,34
+P0967,Pantalón denim,30,3121.260911,02/10/2024,Verde,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Denim,34
+P0041,Pantalón denim,30,2990.83527,01/02/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Algodón,34
+P0040,Zapatos de cuero,25,1156.981971,01/02/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Poliéster,34
+P0543,Zapatos de cuero,14,643.3541117,01/23/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,34
+P0559,Camiseta algodón,14,428.8904143,01/24/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Algodón,34
+P0654,Pantalón denim,35,3351.614539,01/28/2024,Azul,L,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Lana,34
+P0982,Bufanda de lana,38,2626.093045,02/10/2024,Verde,S,Online,Modern Fusion,HighTech Materials S.A.,México,Cuero,34
+P0910,Zapatos de cuero,13,585.1334728,02/07/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,China,Denim,34
+P0490,Vestido estampado,3,121.7874997,01/21/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,México,Poliéster,34
+P0900,Bufanda de lana,27,1747.615026,02/07/2024,Azul,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Lana,34
+P0358,Vestido estampado,5,209.1800338,01/15/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Lana,34
+P0156,Vestido estampado,42,1748.371746,01/07/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Poliéster,34
+P0903,Zapatos de cuero,32,1482.369528,02/07/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Cuero,34
+P0328,Camiseta algodón,8,250.8642047,01/14/2024,Verde,L,Online,Urban Trends,Global Textiles Inc.,México,Cuero,34
+P0814,Pantalón denim,13,1228.521655,02/03/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Lana,34
+P0463,Vestido estampado,14,661.780449,01/20/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Poliéster,34
+P0172,Zapatos de cuero,42,1873.908185,01/08/2024,Blanco,M,Online,Urban Trends,Eco Fabrics Ltd.,China,Poliéster,34
+P0196,Camiseta algodón,5,136.8782074,01/09/2024,Verde,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Lana,34
+P0379,Zapatos de cuero,7,626.2921664,01/16/2024,Azul,S,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Algodón,34
+P0764,Camiseta algodón,18,566.7117994,02/01/2024,Azul,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Denim,35
+P0450,Zapatos de cuero,2,86.81409089,01/19/2024,Verde,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Algodón,35
+P0657,Pantalón denim,18,1723.162927,01/28/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Denim,35
+P0525,Pantalón denim,41,4698.469857,01/22/2024,Verde,L,Online,Urban Trends,Global Textiles Inc.,India,Denim,35
+P0828,Camiseta algodón,1,25.22456684,02/04/2024,Verde,L,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Cuero,35
+P0466,Pantalón denim,4,415.0807852,01/20/2024,Blanco,S,Online,Urban Trends,Eco Fabrics Ltd.,China,Poliéster,35
+P0471,Bufanda de lana,34,2281.396685,01/20/2024,Negro,L,Online,Urban Trends,Global Textiles Inc.,México,Denim,35
+P0533,Bufanda de lana,47,2922.05108,01/23/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,35
+P0575,Pantalón denim,49,5076.402095,01/24/2024,Verde,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Cuero,35
+P0800,Pantalón denim,9,2014.305469,02/03/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Lana,35
+P0925,Pantalón denim,12,1340.523588,02/08/2024,Blanco,M,Online,Urban Trends,Global Textiles Inc.,México,Poliéster,35
+P0767,Zapatos de cuero,6,291.6419751,02/01/2024,Negro,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,35
+P0484,Zapatos de cuero,21,1004.787238,01/21/2024,Azul,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,35
+P0435,Pantalón denim,34,3387.392483,01/19/2024,Verde,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Denim,35
+P0029,Camiseta algodón,27,750.7332693,01/02/2024,Negro,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Denim,35
+P0984,Vestido estampado,15,639.2670493,02/10/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,35
+P0374,Zapatos de cuero,36,1752.383334,01/16/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,35
+P0095,Bufanda de lana,5,279.2285708,01/04/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,35
+P0249,Bufanda de lana,22,1351.503873,01/11/2024,Verde,M,Online,Urban Trends,Global Textiles Inc.,India,Lana,35
+P0138,Pantalón denim,46,4175.131729,01/06/2024,Rojo,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Cuero,35
+P0083,Camiseta algodón,5,166.317128,01/04/2024,Azul,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Poliéster,35
+P0307,Zapatos de cuero,4,197.7841113,01/13/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Algodón,35
+P0236,Bufanda de lana,5,305.1621886,01/10/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Cuero,35
+P0333,Vestido estampado,15,620.9199457,01/14/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Poliéster,36
+P0100,Vestido estampado,3,117.899858,01/05/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,36
+P0545,Camiseta algodón,9,273.3528778,01/23/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,36
+P0192,Camiseta algodón,10,298.2201757,01/08/2024,Verde,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Algodón,36
+P0851,Pantalón denim,23,2340.652813,02/05/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Algodón,36
+P0875,Bufanda de lana,43,2710.879046,02/06/2024,Verde,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,36
+P0123,Pantalón denim,33,3152.185428,01/06/2024,Negro,L,Online,Urban Trends,HighTech Materials S.A.,India,Poliéster,36
+P0678,Zapatos de cuero,10,388.4840626,01/29/2024,Azul,M,Online,Urban Trends,Eco Fabrics Ltd.,India,Poliéster,36
+P0202,Zapatos de cuero,7,350.3771881,01/09/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,36
+P0009,Bufanda de lana,32,2027.357718,01/01/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,36
+P0671,Zapatos de cuero,36,1248.489415,01/28/2024,Azul,S,Online,Urban Trends,Global Textiles Inc.,India,Algodón,36
+P0867,Camiseta algodón,31,990.2690519,02/06/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Algodón,36
+P0316,Pantalón denim,6,557.7709197,01/14/2024,Verde,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Cuero,36
+P0271,Pantalón denim,47,4426.095722,01/12/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,36
+P0528,Bufanda de lana,30,1750.354503,01/22/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Poliéster,36
+P0427,Bufanda de lana,7,498.5955233,01/18/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,India,Poliéster,37
+P0980,Zapatos de cuero,2,96.3031992,02/10/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,37
+P0372,Zapatos de cuero,41,1950.117171,01/16/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Algodón,37
+P0320,Vestido estampado,39,1494.37746,01/14/2024,Negro,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Poliéster,37
+P0345,Bufanda de lana,2,141.3877494,01/15/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,37
+P0899,Pantalón denim,40,4500.620613,02/07/2024,Negro,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,37
+P0457,Pantalón denim,34,3111.43427,01/20/2024,Rojo,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Lana,37
+P0681,Zapatos de cuero,40,1912.742064,01/29/2024,Rojo,M,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Denim,37
+P0943,Bufanda de lana,16,1014.955159,02/09/2024,Verde,S,Online,Urban Trends,Eco Fabrics Ltd.,India,Poliéster,37
+P0377,Camiseta algodón,21,930.5753079,01/16/2024,Blanco,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,37
+P0185,Vestido estampado,11,503.9020766,01/08/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,37
+P0147,Bufanda de lana,45,4527.436954,01/07/2024,Rojo,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Denim,37
+P0988,Bufanda de lana,31,1919.62884,02/11/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Cuero,37
+P0229,Bufanda de lana,27,1709.284193,01/10/2024,Verde,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,37
+P0592,Vestido estampado,13,542.0278862,01/25/2024,Blanco,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Poliéster,37
+P0097,Vestido estampado,29,1331.565418,01/05/2024,Blanco,L,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,38
+P0356,Pantalón denim,28,2569.293983,01/15/2024,Negro,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Lana,38
+P0020,Zapatos de cuero,7,369.9957994,01/01/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,38
+P0361,Zapatos de cuero,41,1809.264274,01/16/2024,Rojo,L,Online,Urban Trends,Eco Fabrics Ltd.,México,Lana,38
+P0773,Zapatos de cuero,44,2069.21317,02/02/2024,Rojo,L,Online,Urban Trends,Global Textiles Inc.,China,Lana,38
+P0050,Vestido estampado,45,1643.751108,01/03/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Poliéster,38
+P0247,Vestido estampado,5,226.0914956,01/11/2024,Blanco,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Denim,38
+P0735,Zapatos de cuero,48,2199.980096,01/31/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,38
+P0839,Camiseta algodón,46,1303.196992,02/04/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Poliéster,38
+P0231,Pantalón denim,21,1998.080864,01/10/2024,Rojo,L,Online,Urban Trends,HighTech Materials S.A.,India,Poliéster,38
+P0917,Bufanda de lana,30,1922.348893,02/08/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,38
+P0441,Zapatos de cuero,28,1231.870788,01/19/2024,Azul,L,Online,Urban Trends,Global Textiles Inc.,India,Algodón,38
+P0952,Pantalón denim,36,3491.06952,02/09/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,38
+P0012,Camiseta algodón,9,256.1989977,01/01/2024,Azul,XL,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Denim,38
+P0586,Camiseta algodón,16,436.5077043,01/25/2024,Verde,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Poliéster,38
+P0257,Camiseta algodón,1,28.02475569,01/11/2024,Azul,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Poliéster,38
+P0447,Zapatos de cuero,46,2073.6882,01/19/2024,Blanco,M,Online,Urban Trends,Global Textiles Inc.,Turquía,Denim,38
+P0129,Vestido estampado,20,1398.908346,01/06/2024,Blanco,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Denim,38
+P0453,Camiseta algodón,17,498.3647339,01/19/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Lana,38
+P0939,Camiseta algodón,26,702.7493408,02/09/2024,Negro,L,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,38
+P0406,Zapatos de cuero,4,188.4430159,01/17/2024,Verde,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Poliéster,38
+P0557,Bufanda de lana,11,626.5427129,01/24/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Denim,38
+P0206,Camiseta algodón,27,825.2808363,01/09/2024,Blanco,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Cuero,39
+P0219,Zapatos de cuero,40,1910.442525,01/10/2024,Rojo,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Denim,39
+P0190,Camiseta algodón,39,1224.442874,01/08/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,39
+P0220,Zapatos de cuero,6,244.8276173,01/10/2024,Rojo,L,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Poliéster,39
+P0442,Bufanda de lana,15,840.7191449,01/19/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,Turquía,Poliéster,39
+P0505,Bufanda de lana,21,1239.779844,01/22/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,39
+P0276,Zapatos de cuero,2,87.77962559,01/12/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Cuero,39
+P0647,Pantalón denim,9,965.4598841,01/27/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,India,Lana,39
+P0037,Zapatos de cuero,16,706.7455146,01/02/2024,Azul,L,Online,Urban Trends,Eco Fabrics Ltd.,México,Cuero,39
+P0015,Pantalón denim,12,1222.413953,01/01/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Lana,39
+P0162,Vestido estampado,41,1850.429542,01/07/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,39
+P0712,Bufanda de lana,29,1956.954932,01/30/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,Turquía,Cuero,39
+P0810,Vestido estampado,41,1455.450688,02/03/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,39
+P0655,Pantalón denim,23,2720.31527,01/28/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,39
+P0798,Bufanda de lana,35,2096.353383,02/03/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,México,Lana,39
+P0014,Bufanda de lana,22,1203.934775,01/01/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Denim,39
+P0350,Camiseta algodón,14,429.2691808,01/15/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Poliéster,39
+P0806,Vestido estampado,21,974.851752,02/03/2024,Azul,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Denim,39
+P0022,Pantalón denim,1,93.09159066,01/01/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,39
+P0718,Vestido estampado,41,1599.123179,01/30/2024,Verde,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Cuero,39
+P0246,Bufanda de lana,2,125.0398725,01/11/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,40
+P0796,Bufanda de lana,45,2728.686129,02/03/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,40
+P0429,Bufanda de lana,44,2821.634031,01/18/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Algodón,40
+P0781,Vestido estampado,33,1615.503371,02/02/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,China,Poliéster,40
+P0554,Zapatos de cuero,18,932.3981756,01/24/2024,Rojo,L,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Poliéster,40
+P0194,Zapatos de cuero,24,1147.415399,01/09/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Cuero,40
+P0805,Bufanda de lana,46,5055.534151,02/03/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Denim,40
+P0677,Camiseta algodón,2,48.93012309,01/29/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Algodón,40
+P0703,Vestido estampado,7,335.1972666,01/30/2024,Rojo,L,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Lana,40
+P0025,Zapatos de cuero,44,2325.435878,01/02/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Poliéster,40
+P0449,Camiseta algodón,9,276.1371974,01/19/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,40
+P0295,Vestido estampado,17,1501.267962,01/13/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Poliéster,40
+P0683,Bufanda de lana,8,453.0917023,01/29/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,40
+P0368,Camiseta algodón,32,915.0621649,01/16/2024,Rojo,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,40
+P0436,Zapatos de cuero,17,734.6492336,01/19/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Cuero,40
+P0869,Bufanda de lana,11,685.0765858,02/06/2024,Azul,M,Online,Urban Trends,Global Textiles Inc.,Turquía,Algodón,40
+P0335,Pantalón denim,45,3772.456532,01/14/2024,Verde,S,Tienda física,Classic Elegance,Global Textiles Inc.,México,Algodón,40
+P0736,Pantalón denim,28,2837.89747,01/31/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Algodón,40
+P0560,Zapatos de cuero,4,203.0101089,01/24/2024,Blanco,S,Online,Modern Fusion,HighTech Materials S.A.,México,Poliéster,41
+P0596,Vestido estampado,28,1078.091662,01/25/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,México,Lana,41
+P0783,Vestido estampado,24,1128.03396,02/02/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Poliéster,41
+P0260,Zapatos de cuero,19,825.7322504,01/11/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,México,Lana,41
+P0590,Zapatos de cuero,34,1691.574107,01/25/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Algodón,41
+P0591,Pantalón denim,9,832.2503289,01/25/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,41
+P0175,Pantalón denim,33,2959.905387,01/08/2024,Verde,L,Tienda física,Classic Elegance,Global Textiles Inc.,China,Poliéster,41
+P0880,Vestido estampado,16,746.5560868,02/06/2024,Negro,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Lana,41
+P0794,Bufanda de lana,29,1616.963302,02/03/2024,Negro,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,41
+P0772,Zapatos de cuero,3,129.8283805,02/02/2024,Blanco,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,41
+P0516,Zapatos de cuero,26,1187.660774,01/22/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,41
+P0413,Pantalón denim,17,1537.564671,01/18/2024,Verde,S,Online,Urban Trends,Eco Fabrics Ltd.,India,Lana,41
+P0690,Pantalón denim,35,3519.732865,01/29/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Lana,41
+P0758,Bufanda de lana,34,1955.982365,02/01/2024,Blanco,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Lana,41
+P0642,Camiseta algodón,30,848.8414903,01/27/2024,Verde,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Lana,41
+P0897,Pantalón denim,45,3747.54162,02/07/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,41
+P0393,Zapatos de cuero,5,257.9407346,01/17/2024,Negro,M,Online,Urban Trends,HighTech Materials S.A.,Turquía,Poliéster,41
+P0956,Camiseta algodón,48,1440.172801,02/09/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,41
+P0908,Camiseta algodón,49,1417.344063,02/07/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Denim,41
+P0291,Bufanda de lana,42,3664.370291,01/13/2024,Verde,S,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Algodón,42
+P0625,Bufanda de lana,34,1871.462882,01/27/2024,Blanco,M,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,42
+P0454,Pantalón denim,41,4336.82552,01/19/2024,Rojo,L,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Poliéster,42
+P0940,Vestido estampado,10,481.0402283,02/09/2024,Azul,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Denim,42
+P0820,Camiseta algodón,29,782.473755,02/04/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,42
+P0702,Bufanda de lana,41,2586.380599,01/30/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Cuero,42
+P0141,Camiseta algodón,12,330.5202226,01/06/2024,Azul,L,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Denim,42
+P0571,Vestido estampado,45,2118.917706,01/24/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Cuero,42
+P0643,Camiseta algodón,15,477.7959673,01/27/2024,Blanco,S,Online,Urban Trends,HighTech Materials S.A.,India,Denim,42
+P0947,Pantalón denim,47,5499.767296,02/09/2024,Rojo,M,Online,Modern Fusion,Global Textiles Inc.,China,Denim,42
+P0267,Zapatos de cuero,25,1230.393999,01/12/2024,Rojo,S,Online,Modern Fusion,Eco Fabrics Ltd.,China,Denim,42
+P0397,Pantalón denim,35,3653.18103,01/17/2024,Rojo,M,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Lana,42
+P0481,Zapatos de cuero,27,1352.188734,01/21/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,Turquía,Cuero,42
+P0353,Zapatos de cuero,26,1128.925565,01/15/2024,Verde,L,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Denim,42
+P0487,Bufanda de lana,22,1254.738049,01/21/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Algodón,42
+P0244,Pantalón denim,15,1749.199911,01/11/2024,Blanco,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Cuero,42
+P0315,Vestido estampado,9,431.0448746,01/14/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Cuero,42
+P0539,Camiseta algodón,32,970.1586853,01/23/2024,Blanco,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,42
+P0077,Camiseta algodón,15,835.5107876,01/04/2024,Rojo,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,42
+P0529,Zapatos de cuero,36,1579.475902,01/23/2024,Verde,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Lana,42
+P0338,Camiseta algodón,14,423.3284064,01/15/2024,Blanco,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,42
+P0663,Zapatos de cuero,32,1453.798295,01/28/2024,Negro,L,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,43
+P0514,Camiseta algodón,32,961.1970631,01/22/2024,Rojo,M,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,43
+P0326,Pantalón denim,35,4203.947783,01/14/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,43
+P0240,Bufanda de lana,5,296.9076045,01/10/2024,Negro,S,Online,Urban Trends,Eco Fabrics Ltd.,China,Algodón,43
+P0771,Zapatos de cuero,41,2073.244292,02/02/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,43
+P0054,Vestido estampado,16,1226.331216,01/03/2024,Negro,L,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Algodón,43
+P0391,Vestido estampado,20,957.9120168,01/17/2024,Rojo,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Lana,43
+P0373,Vestido estampado,4,181.8461552,01/16/2024,Blanco,L,Online,Urban Trends,Eco Fabrics Ltd.,India,Denim,43
+P0622,Pantalón denim,11,1376.008649,01/26/2024,Rojo,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Cuero,43
+P0617,Vestido estampado,33,1468.673212,01/26/2024,Negro,L,Online,Modern Fusion,HighTech Materials S.A.,México,Cuero,43
+P0662,Bufanda de lana,49,2811.721839,01/28/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Cuero,43
+P0809,Bufanda de lana,7,411.2365442,02/03/2024,Blanco,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Algodón,43
+P0340,Pantalón denim,35,3401.256286,01/15/2024,Negro,M,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Denim,43
+P0547,Camiseta algodón,48,1507.783994,01/23/2024,Negro,XL,Online,Urban Trends,HighTech Materials S.A.,India,Cuero,43
+P0872,Zapatos de cuero,31,1449.723756,02/06/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Poliéster,43
+P0906,Camiseta algodón,27,798.4595807,02/07/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Poliéster,43
+P0802,Zapatos de cuero,19,1464.765868,02/03/2024,Azul,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Cuero,43
+P0659,Zapatos de cuero,14,661.7564543,01/28/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,India,Denim,43
+P0366,Bufanda de lana,46,3115.163902,01/16/2024,Rojo,XL,Online,Urban Trends,HighTech Materials S.A.,México,Algodón,43
+P0990,Pantalón denim,42,4698.075933,02/11/2024,Verde,M,Online,Urban Trends,Global Textiles Inc.,India,Denim,44
+P0215,Camiseta algodón,35,976.9091511,01/09/2024,Blanco,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Algodón,44
+P0250,Vestido estampado,49,2428.345698,01/11/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,44
+P0191,Vestido estampado,30,1230.44019,01/08/2024,Verde,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Lana,44
+P0761,Bufanda de lana,42,2313.802729,02/01/2024,Blanco,S,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Cuero,44
+P0631,Vestido estampado,19,796.3277089,01/27/2024,Blanco,S,Online,Urban Trends,Global Textiles Inc.,China,Algodón,44
+P0116,Vestido estampado,26,1359.737129,01/05/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,India,Poliéster,44
+P0628,Bufanda de lana,37,2761.634246,01/27/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Denim,44
+P0915,Zapatos de cuero,5,233.8541825,02/08/2024,Verde,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Denim,44
+P0975,Zapatos de cuero,34,1945.003711,02/10/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Poliéster,44
+P0856,Vestido estampado,3,109.5084686,02/05/2024,Verde,S,Online,Modern Fusion,HighTech Materials S.A.,México,Cuero,44
+P0997,Pantalón denim,17,1843.39327,02/11/2024,Negro,M,Online,Urban Trends,HighTech Materials S.A.,México,Algodón,44
+P0039,Camiseta algodón,14,363.682627,01/02/2024,Azul,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Cuero,44
+P0306,Vestido estampado,32,1258.464608,01/13/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Cuero,44
+P0301,Pantalón denim,26,2256.121879,01/13/2024,Azul,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Algodón,44
+P0331,Camiseta algodón,12,355.6191338,01/14/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,44
+P0730,Vestido estampado,33,1284.484324,01/31/2024,Rojo,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Poliéster,44
+P0896,Bufanda de lana,30,1807.556666,02/07/2024,Azul,XL,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Denim,44
+P0894,Camiseta algodón,46,1276.190706,02/07/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,44
+P0354,Vestido estampado,19,771.1535575,01/15/2024,Verde,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,44
+P0455,Zapatos de cuero,8,357.0737861,01/19/2024,Azul,XL,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Cuero,44
+P0570,Vestido estampado,23,1148.283166,01/24/2024,Blanco,M,Online,Modern Fusion,HighTech Materials S.A.,India,Poliéster,44
+P0480,Camiseta algodón,13,523.480981,01/20/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Algodón,45
+P0448,Camiseta algodón,36,1158.356657,01/19/2024,Azul,M,Online,Urban Trends,HighTech Materials S.A.,China,Algodón,45
+P0955,Zapatos de cuero,27,1367.005698,02/09/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,45
+P0607,Zapatos de cuero,4,192.0860942,01/26/2024,Blanco,L,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,45
+P0981,Bufanda de lana,35,2268.989378,02/10/2024,Negro,XL,Online,Modern Fusion,Global Textiles Inc.,India,Denim,45
+P0999,Bufanda de lana,24,1721.84114,02/11/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,China,Denim,45
+P0996,Bufanda de lana,32,1918.835196,02/11/2024,Verde,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Lana,45
+P0109,Pantalón denim,46,4298.250823,01/05/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,India,Lana,45
+P0610,Camiseta algodón,2,66.15350658,01/26/2024,Rojo,L,Online,Urban Trends,Global Textiles Inc.,China,Lana,45
+P0411,Vestido estampado,15,684.1183912,01/18/2024,Negro,L,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Denim,45
+P0349,Pantalón denim,21,3549.132365,01/15/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,45
+P0161,Zapatos de cuero,28,1375.448534,01/07/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,45
+P0165,Camiseta algodón,29,1007.112451,01/07/2024,Verde,L,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Cuero,45
+P0402,Camiseta algodón,15,499.261439,01/17/2024,Blanco,L,Online,Urban Trends,HighTech Materials S.A.,México,Algodón,45
+P0871,Camiseta algodón,16,408.4772617,02/06/2024,Negro,XL,Online,Urban Trends,Eco Fabrics Ltd.,China,Cuero,45
+P0711,Vestido estampado,29,1053.804063,01/30/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,China,Denim,45
+P0133,Zapatos de cuero,31,1488.271855,01/06/2024,Rojo,S,Tienda física,Classic Elegance,Global Textiles Inc.,México,Denim,45
+P0523,Vestido estampado,14,604.0984345,01/22/2024,Rojo,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,45
+P0881,Vestido estampado,39,2025.079541,02/06/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,45
+P0300,Zapatos de cuero,21,1087.345802,01/13/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,45
+P0945,Camiseta algodón,1,26.29421866,02/09/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,45
+P0541,Vestido estampado,41,1869.42695,01/23/2024,Blanco,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Poliéster,45
+P0584,Zapatos de cuero,40,2145.446764,01/25/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,45
+P0321,Vestido estampado,43,2228.21608,01/14/2024,Negro,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Denim,45
+P0801,Bufanda de lana,22,1451.388877,02/03/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Poliéster,45
+P0887,Bufanda de lana,5,346.1642878,02/06/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Algodón,46
+P0627,Vestido estampado,48,2018.74734,01/27/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,46
+P0107,Vestido estampado,38,1649.29868,01/05/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Poliéster,46
+P0672,Zapatos de cuero,33,1443.430559,01/28/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,46
+P0067,Zapatos de cuero,44,2222.54736,01/03/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,46
+P0203,Bufanda de lana,40,2230.767271,01/09/2024,Rojo,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Denim,46
+P0217,Zapatos de cuero,45,2095.248606,01/10/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,México,Lana,46
+P0264,Bufanda de lana,37,2476.015965,01/11/2024,Azul,M,Online,Urban Trends,HighTech Materials S.A.,México,Cuero,46
+P0536,Camiseta algodón,12,381.7360209,01/23/2024,Verde,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,46
+P0173,Pantalón denim,14,1457.666593,01/08/2024,Blanco,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,46
+P0048,Vestido estampado,43,1966.009985,01/02/2024,Rojo,XL,Online,Urban Trends,HighTech Materials S.A.,India,Poliéster,46
+P0483,Camiseta algodón,47,2383.285122,01/21/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Algodón,46
+P0635,Camiseta algodón,26,757.893995,01/27/2024,Rojo,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Cuero,47
+P0888,Camiseta algodón,14,412.2040195,02/06/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,México,Lana,47
+P0891,Zapatos de cuero,29,1532.848504,02/07/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Lana,47
+P0792,Bufanda de lana,3,200.5491425,02/02/2024,Blanco,S,Online,Urban Trends,Eco Fabrics Ltd.,México,Lana,47
+P0357,Zapatos de cuero,29,2270.975053,01/15/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Poliéster,47
+P0970,Camiseta algodón,37,1288.309044,02/10/2024,Azul,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,México,Poliéster,47
+P0562,Bufanda de lana,34,1868.425131,01/24/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,México,Denim,47
+P0180,Zapatos de cuero,48,2161.75514,01/08/2024,Negro,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Lana,47
+P0558,Vestido estampado,2,86.53584281,01/24/2024,Azul,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Algodón,47
+P0517,Zapatos de cuero,14,668.1917146,01/22/2024,Azul,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Algodón,47
+P0733,Camiseta algodón,14,444.4833009,01/31/2024,Azul,XL,Online,Urban Trends,Global Textiles Inc.,India,Cuero,47
+P0047,Vestido estampado,19,836.9273399,01/02/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,47
+P0233,Vestido estampado,43,2150.762381,01/10/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,47
+P0044,Zapatos de cuero,3,241.9407621,01/02/2024,Blanco,M,Online,Urban Trends,HighTech Materials S.A.,México,Cuero,47
+P0199,Pantalón denim,19,2048.345069,01/09/2024,Rojo,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Denim,47
+P0337,Bufanda de lana,37,2748.724147,01/15/2024,Rojo,S,Online,Modern Fusion,Global Textiles Inc.,México,Lana,47
+P0153,Pantalón denim,28,2970.74605,01/07/2024,Verde,XL,Online,Urban Trends,HighTech Materials S.A.,México,Denim,47
+P0369,Pantalón denim,26,2972.386625,01/16/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,47
+P0719,Bufanda de lana,18,1901.436772,01/30/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Algodón,48
+P0721,Pantalón denim,47,4855.207552,01/31/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Lana,48
+P0728,Pantalón denim,4,382.1427416,01/31/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Algodón,48
+P0197,Pantalón denim,37,3621.845752,01/09/2024,Rojo,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Lana,48
+P0564,Bufanda de lana,39,2614.54057,01/24/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,48
+P0303,Vestido estampado,40,2112.59503,01/13/2024,Verde,L,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Algodón,48
+P0496,Zapatos de cuero,7,335.467312,01/21/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,China,Algodón,48
+P0272,Zapatos de cuero,38,2039.333064,01/12/2024,Verde,M,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Cuero,48
+P0456,Vestido estampado,34,1503.595595,01/19/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Denim,48
+P0838,Camiseta algodón,1,31.64565217,02/04/2024,Rojo,S,Tienda física,Classic Elegance,Global Textiles Inc.,China,Lana,48
+P0451,Vestido estampado,2,104.4359763,01/19/2024,Azul,XL,Tienda física,Classic Elegance,Global Textiles Inc.,India,Denim,48
+P0793,Bufanda de lana,29,1982.326704,02/03/2024,Negro,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,48
+P0789,Camiseta algodón,38,1184.58066,02/02/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,India,Denim,48
+P0835,Vestido estampado,35,1584.177834,02/04/2024,Verde,XL,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Lana,48
+P0934,Vestido estampado,19,930.4596302,02/08/2024,Negro,L,Online,Urban Trends,HighTech Materials S.A.,India,Lana,48
+P0277,Vestido estampado,8,438.7345669,01/12/2024,Rojo,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Poliéster,48
+P0521,Camiseta algodón,4,128.6607936,01/22/2024,Rojo,S,Online,Urban Trends,HighTech Materials S.A.,México,Cuero,48
+P0513,Bufanda de lana,28,1822.407562,01/22/2024,Azul,L,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,48
+P0998,Zapatos de cuero,37,1831.368706,02/11/2024,Rojo,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Algodón,48
+P0633,Pantalón denim,21,2262.127666,01/27/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,48
+P0734,Bufanda de lana,23,1398.617106,01/31/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Lana,49
+P0055,Vestido estampado,32,1644.172588,01/03/2024,Negro,XL,Online,Urban Trends,Eco Fabrics Ltd.,México,Poliéster,49
+P0495,Pantalón denim,43,4772.182471,01/21/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Cuero,49
+P0166,Vestido estampado,14,531.6112982,01/07/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,China,Lana,49
+P0511,Bufanda de lana,1,74.78677265,01/22/2024,Rojo,M,Online,Modern Fusion,HighTech Materials S.A.,China,Poliéster,49
+P0824,Bufanda de lana,20,1427.873258,02/04/2024,Azul,XL,Online,Urban Trends,HighTech Materials S.A.,India,Algodón,49
+P0283,Bufanda de lana,45,3249.883661,01/12/2024,Blanco,S,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Poliéster,49
+P0648,Vestido estampado,13,614.8894506,01/27/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Cuero,49
+P0274,Bufanda de lana,39,2346.710693,01/12/2024,Blanco,L,Online,Urban Trends,Global Textiles Inc.,Turquía,Algodón,49
+P0957,Pantalón denim,12,1172.099018,02/09/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Denim,49
+P0275,Vestido estampado,15,688.5787887,01/12/2024,Negro,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,49
+P0118,Bufanda de lana,27,1744.631866,01/05/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,49
+P0587,Pantalón denim,42,4658.108848,01/25/2024,Azul,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Lana,49
+P0114,Bufanda de lana,41,2664.626994,01/05/2024,Azul,S,Online,Urban Trends,HighTech Materials S.A.,India,Lana,49
+P0944,Pantalón denim,17,1638.368539,02/09/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,49
+P0131,Vestido estampado,26,1095.370929,01/06/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Algodón,49
+P0556,Pantalón denim,29,2964.42125,01/24/2024,Azul,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,49
+P0595,Bufanda de lana,46,2844.327027,01/25/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Cuero,49
+P0401,Bufanda de lana,29,2007.642721,01/17/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,49
+P0414,Zapatos de cuero,33,1626.993203,01/18/2024,Verde,XL,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Lana,50
+P0137,Bufanda de lana,26,1863.780202,01/06/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Lana,50
+P0431,Vestido estampado,43,1922.041881,01/18/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Cuero,50
+P0378,Pantalón denim,22,2472.498169,01/16/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,50
+P0489,Vestido estampado,28,1459.33419,01/21/2024,Blanco,S,Online,Urban Trends,HighTech Materials S.A.,México,Denim,50
+P0036,Pantalón denim,31,3415.601105,01/02/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,50
+P0398,Camiseta algodón,3,100.5770243,01/17/2024,Verde,M,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Algodón,50
+P0105,Vestido estampado,18,969.5327407,01/05/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,50
+P0959,Zapatos de cuero,35,1786.424172,02/09/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,50
+P0588,Camiseta algodón,9,271.5002249,01/25/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Algodón,50
+P0096,Camiseta algodón,35,1223.338688,01/04/2024,Azul,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Algodón,50
+P0228,Bufanda de lana,29,1758.349163,01/10/2024,Rojo,S,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Denim,50
+P0080,Bufanda de lana,40,2349.382158,01/04/2024,Verde,L,Tienda física,Classic Elegance,Global Textiles Inc.,México,Cuero,50
+P0252,Bufanda de lana,32,1989.842559,01/11/2024,Blanco,XL,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Poliéster,50
+P0072,Pantalón denim,20,1980.507453,01/03/2024,Azul,L,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,50
+P0795,Pantalón denim,31,3632.939749,02/03/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,50
+P0573,Vestido estampado,22,1017.283112,01/24/2024,Negro,XL,Online,Modern Fusion,Global Textiles Inc.,India,Lana,50
+P0132,Pantalón denim,47,5386.847608,01/06/2024,Negro,S,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,50
+P0290,Pantalón denim,20,2227.619209,01/13/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,50
+P0298,Vestido estampado,25,1282.483553,01/13/2024,Blanco,XL,Online,Urban Trends,HighTech Materials S.A.,China,Cuero,50
+P0051,Zapatos de cuero,42,2388.548814,01/03/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Denim,50
+P0821,Zapatos de cuero,8,667.6232288,02/04/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,50
+P0507,Pantalón denim,13,1476.991628,01/22/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Denim,50
+P0674,Pantalón denim,32,3504.049577,01/29/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Denim,50
+P0877,Bufanda de lana,4,261.6840392,02/06/2024,Negro,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Lana,51
+P0011,Camiseta algodón,4,128.198914,01/01/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Denim,51
+P0058,Camiseta algodón,13,453.176563,01/03/2024,Verde,M,Tienda física,Classic Elegance,Global Textiles Inc.,China,Denim,51
+P0782,Camiseta algodón,15,442.2468516,02/02/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Poliéster,51
+P0113,Camiseta algodón,10,361.4208961,01/05/2024,Verde,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Poliéster,51
+P0091,Pantalón denim,11,1155.602801,01/04/2024,Azul,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,51
+P0831,Camiseta algodón,32,1082.846472,02/04/2024,Azul,L,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Poliéster,51
+P0500,Zapatos de cuero,18,977.6134277,01/21/2024,Azul,L,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Algodón,51
+P0578,Pantalón denim,42,4623.014061,01/25/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,51
+P0348,Bufanda de lana,20,1314.209514,01/15/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,China,Denim,51
+P0669,Pantalón denim,46,5640.34148,01/28/2024,Blanco,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Denim,51
+P0973,Zapatos de cuero,17,807.9007878,02/10/2024,Verde,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Poliéster,51
+P0626,Camiseta algodón,19,615.8060323,01/27/2024,Negro,M,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,51
+P0937,Bufanda de lana,27,1420.244825,02/09/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,India,Lana,51
+P0506,Zapatos de cuero,34,1848.138904,01/22/2024,Negro,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,51
+P0464,Zapatos de cuero,2,96.84080594,01/20/2024,Blanco,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Lana,51
+P0367,Zapatos de cuero,9,470.8984188,01/16/2024,Rojo,S,Online,Urban Trends,Eco Fabrics Ltd.,China,Denim,51
+P0472,Bufanda de lana,31,1856.544713,01/20/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Cuero,51
+P0904,Camiseta algodón,20,602.8603619,02/07/2024,Rojo,M,Online,Modern Fusion,HighTech Materials S.A.,India,Denim,51
+P0200,Pantalón denim,37,3795.448355,01/09/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,51
+P0280,Zapatos de cuero,6,305.8199225,01/12/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Poliéster,51
+P0293,Zapatos de cuero,22,1223.872441,01/13/2024,Negro,L,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,51
+P0444,Pantalón denim,15,1788.017695,01/19/2024,Azul,L,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,51
+P0902,Camiseta algodón,15,457.0042986,02/07/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Lana,51
+P0145,Bufanda de lana,35,3336.346425,01/07/2024,Blanco,S,Online,Urban Trends,Eco Fabrics Ltd.,México,Algodón,51
+P0716,Pantalón denim,31,3276.968413,01/30/2024,Verde,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Denim,51
+P0652,Bufanda de lana,19,1095.495219,01/28/2024,Blanco,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Cuero,52
+P0966,Bufanda de lana,40,2746.324057,02/10/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,52
+P0751,Camiseta algodón,5,155.8116658,02/01/2024,Blanco,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Algodón,52
+P0989,Zapatos de cuero,41,1933.06014,02/11/2024,Verde,XL,Online,Urban Trends,HighTech Materials S.A.,México,Poliéster,52
+P0239,Pantalón denim,4,395.2769423,01/10/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,India,Algodón,52
+P0963,Vestido estampado,45,2068.06294,02/10/2024,Rojo,XL,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Algodón,52
+P0790,Vestido estampado,39,1506.303843,02/02/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Algodón,52
+P0624,Camiseta algodón,45,1350.497531,01/26/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Lana,52
+P0546,Vestido estampado,26,1114.337247,01/23/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,México,Algodón,52
+P0310,Bufanda de lana,9,579.5467077,01/13/2024,Negro,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Denim,52
+P0885,Bufanda de lana,30,1852.567806,02/06/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Cuero,52
+P0884,Pantalón denim,5,559.0576489,02/06/2024,Rojo,L,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Cuero,52
+P0926,Zapatos de cuero,12,594.234899,02/08/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,52
+P0665,Pantalón denim,45,4663.175383,01/28/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,52
+P0024,Zapatos de cuero,47,2414.431445,01/01/2024,Rojo,L,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,52
+P0452,Pantalón denim,18,1845.923475,01/19/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Poliéster,52
+P0680,Vestido estampado,21,966.5460316,01/29/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,China,Cuero,52
+P0685,Bufanda de lana,18,1314.593769,01/29/2024,Negro,L,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Lana,52
+P0664,Bufanda de lana,11,720.9144659,01/28/2024,Negro,S,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Lana,53
+P0421,Vestido estampado,31,1477.066717,01/18/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Cuero,53
+P0553,Pantalón denim,2,183.7161459,01/24/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Poliéster,53
+P0155,Camiseta algodón,29,1044.705818,01/07/2024,Blanco,M,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Algodón,53
+P0073,Bufanda de lana,34,2171.702357,01/04/2024,Negro,S,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,53
+P0597,Zapatos de cuero,11,641.8091868,01/25/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,53
+P0060,Zapatos de cuero,20,1955.662369,01/03/2024,Verde,S,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Algodón,53
+P0776,Camiseta algodón,19,674.8089615,02/02/2024,Azul,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Lana,53
+P0018,Pantalón denim,32,6088.807492,01/01/2024,Verde,M,Online,Urban Trends,Global Textiles Inc.,Bangladesh,Denim,53
+P0842,Zapatos de cuero,4,192.4295215,02/05/2024,Azul,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,53
+P0613,Camiseta algodón,13,394.2490935,01/26/2024,Verde,S,Online,Urban Trends,Global Textiles Inc.,China,Lana,53
+P0532,Camiseta algodón,46,1454.962678,01/23/2024,Blanco,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,53
+P0827,Camiseta algodón,21,687.4525402,02/04/2024,Rojo,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Denim,53
+P0978,Camiseta algodón,4,125.7447676,02/10/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Poliéster,53
+P0213,Vestido estampado,17,811.9643644,01/09/2024,Azul,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,53
+P0932,Camiseta algodón,13,393.5710672,02/08/2024,Blanco,XL,Online,Urban Trends,Global Textiles Inc.,China,Poliéster,53
+P0847,Camiseta algodón,36,1261.647659,02/05/2024,Azul,M,Online,Urban Trends,Global Textiles Inc.,Turquía,Cuero,53
+P0227,Zapatos de cuero,12,563.8282933,01/10/2024,Negro,M,Online,Urban Trends,Global Textiles Inc.,China,Algodón,53
+P0912,Bufanda de lana,18,2043.851322,02/07/2024,Negro,L,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Algodón,53
+P0848,Zapatos de cuero,9,488.2213544,02/05/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,China,Cuero,53
+P0122,Bufanda de lana,1,69.40108429,01/06/2024,Azul,M,Online,Modern Fusion,Global Textiles Inc.,México,Denim,54
+P0390,Zapatos de cuero,22,1156.157608,01/17/2024,Azul,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Cuero,54
+P0807,Zapatos de cuero,17,978.7622964,02/03/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Cuero,54
+P0253,Pantalón denim,8,753.3262659,01/11/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,54
+P0318,Bufanda de lana,42,3104.32113,01/14/2024,Rojo,XL,Online,Urban Trends,HighTech Materials S.A.,China,Algodón,54
+P0317,Camiseta algodón,27,747.3973708,01/14/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,China,Algodón,54
+P0791,Bufanda de lana,22,1672.418175,02/02/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,China,Poliéster,54
+P0504,Zapatos de cuero,38,1948.784051,01/21/2024,Azul,S,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Poliéster,54
+P0954,Zapatos de cuero,9,446.8472685,02/09/2024,Azul,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,54
+P0898,Vestido estampado,2,166.2254682,02/07/2024,Blanco,XL,Tienda física,Classic Elegance,Global Textiles Inc.,China,Algodón,54
+P0070,Vestido estampado,7,360.8017927,01/03/2024,Verde,L,Online,Urban Trends,Eco Fabrics Ltd.,India,Denim,54
+P0006,Pantalón denim,16,1609.179511,01/01/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,54
+P0043,Camiseta algodón,12,399.5713662,01/02/2024,Negro,XL,Online,Urban Trends,Eco Fabrics Ltd.,India,Algodón,54
+P0297,Camiseta algodón,11,340.5252315,01/13/2024,Azul,M,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,54
+P0019,Zapatos de cuero,36,1828.990555,01/01/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Algodón,54
+P0270,Vestido estampado,41,1938.600493,01/12/2024,Negro,L,Online,Urban Trends,HighTech Materials S.A.,China,Denim,54
+P0422,Camiseta algodón,27,1436.628329,01/18/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Algodón,54
+P0479,Bufanda de lana,34,2535.266644,01/20/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,55
+P0279,Camiseta algodón,43,1392.249458,01/12/2024,Negro,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Denim,55
+P0512,Zapatos de cuero,23,1214.257028,01/22/2024,Verde,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Algodón,55
+P0552,Bufanda de lana,44,3007.783042,01/23/2024,Negro,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Algodón,55
+P0061,Bufanda de lana,18,1189.105397,01/03/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Cuero,55
+P0879,Camiseta algodón,28,907.3341209,02/06/2024,Azul,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Denim,55
+P0994,Vestido estampado,21,987.6564767,02/11/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,México,Algodón,55
+P0292,Zapatos de cuero,25,1478.228707,01/13/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Denim,55
+P0715,Zapatos de cuero,33,1755.429517,01/30/2024,Rojo,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Cuero,55
+P0601,Zapatos de cuero,39,1820.018837,01/26/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,55
+P0235,Vestido estampado,16,814.5314147,01/10/2024,Rojo,XL,Tienda física,Classic Elegance,Global Textiles Inc.,China,Poliéster,55
+P0979,Pantalón denim,9,1081.450265,02/10/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Cuero,55
+P0092,Camiseta algodón,49,1521.304436,01/04/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,China,Poliéster,55
+P0992,Bufanda de lana,12,748.0606815,02/11/2024,Verde,S,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Poliéster,55
+P0242,Bufanda de lana,35,2502.188027,01/11/2024,Azul,XL,Online,Urban Trends,Global Textiles Inc.,China,Cuero,55
+P0170,Vestido estampado,37,1957.312093,01/08/2024,Blanco,M,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,55
+P0159,Vestido estampado,37,1793.762295,01/07/2024,Blanco,S,Online,Urban Trends,HighTech Materials S.A.,China,Lana,55
+P0149,Zapatos de cuero,32,1706.632104,01/07/2024,Verde,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Lana,55
+P0788,Vestido estampado,15,668.158856,02/02/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Lana,55
+P0210,Bufanda de lana,2,123.1718197,01/09/2024,Azul,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Cuero,55
+P0198,Vestido estampado,43,1720.460512,01/09/2024,Negro,L,Tienda física,Classic Elegance,Global Textiles Inc.,India,Cuero,55
+P0636,Bufanda de lana,41,2620.205276,01/27/2024,Negro,M,Tienda física,Classic Elegance,Global Textiles Inc.,India,Cuero,56
+P0330,Camiseta algodón,7,215.2060664,01/14/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,México,Lana,56
+P0740,Zapatos de cuero,4,206.1170003,01/31/2024,Rojo,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Algodón,56
+P0619,Camiseta algodón,37,1283.787941,01/26/2024,Azul,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,China,Denim,56
+P0568,Pantalón denim,7,874.9398999,01/24/2024,Blanco,M,Online,Urban Trends,Eco Fabrics Ltd.,India,Poliéster,56
+P0343,Vestido estampado,44,2102.454596,01/15/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,56
+P0874,Pantalón denim,39,4798.246113,02/06/2024,Blanco,XL,Online,Urban Trends,HighTech Materials S.A.,México,Denim,56
+P0833,Bufanda de lana,14,955.9573034,02/04/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,56
+P0579,Pantalón denim,4,506.3801564,01/25/2024,Negro,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Cuero,56
+P0208,Pantalón denim,24,2858.434893,01/09/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,India,Cuero,56
+P0104,Zapatos de cuero,2,89.84688445,01/05/2024,Rojo,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Lana,56
+P0256,Vestido estampado,11,535.6362206,01/11/2024,Blanco,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Cuero,56
+P0143,Bufanda de lana,19,1273.707844,01/06/2024,Blanco,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,56
+P0065,Vestido estampado,32,1709.498214,01/03/2024,Verde,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Denim,56
+P0071,Camiseta algodón,43,1315.789441,01/03/2024,Blanco,L,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,56
+P0399,Pantalón denim,36,3838.451935,01/17/2024,Azul,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Lana,56
+P0991,Zapatos de cuero,23,1176.04767,02/11/2024,Negro,XL,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Denim,56
+P0785,Bufanda de lana,36,2266.630972,02/02/2024,Verde,S,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Denim,56
+P0459,Camiseta algodón,44,1302.238863,01/20/2024,Rojo,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,56
+P0612,Pantalón denim,22,2378.609444,01/26/2024,Verde,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Algodón,56
+P0780,Camiseta algodón,9,272.6010136,02/02/2024,Rojo,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Lana,56
+P0469,Pantalón denim,26,2955.168424,01/20/2024,Azul,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,57
+P0119,Pantalón denim,12,1316.676948,01/05/2024,Negro,M,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Algodón,57
+P0698,Zapatos de cuero,47,2181.492559,01/30/2024,Negro,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Denim,57
+P0985,Camiseta algodón,43,1403.900085,02/11/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,57
+P0370,Pantalón denim,37,4490.914545,01/16/2024,Rojo,XL,Online,Urban Trends,Global Textiles Inc.,Turquía,Denim,57
+P0416,Bufanda de lana,30,1976.284336,01/18/2024,Blanco,M,Tienda física,Classic Elegance,Global Textiles Inc.,India,Denim,57
+P0158,Vestido estampado,5,270.8940592,01/07/2024,Blanco,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Lana,57
+P0409,Zapatos de cuero,6,312.7129256,01/18/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,57
+P0347,Vestido estampado,18,773.7103113,01/15/2024,Verde,L,Online,Modern Fusion,HighTech Materials S.A.,México,Poliéster,57
+P0995,Vestido estampado,21,888.3175103,02/11/2024,Azul,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Lana,57
+P0769,Zapatos de cuero,25,1278.914392,02/02/2024,Verde,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Algodón,57
+P0082,Zapatos de cuero,25,1216.266974,01/04/2024,Blanco,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Cuero,57
+P0765,Pantalón denim,38,4412.458623,02/01/2024,Azul,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Denim,57
+P0808,Pantalón denim,3,354.1707574,02/03/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,China,Denim,57
+P0066,Camiseta algodón,46,1573.845913,01/03/2024,Azul,L,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Cuero,57
+P0225,Bufanda de lana,35,2492.748104,01/10/2024,Negro,XL,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,57
+P0549,Pantalón denim,23,2684.926854,01/23/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Cuero,58
+P0148,Camiseta algodón,42,1420.513077,01/07/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Denim,58
+P0862,Zapatos de cuero,13,572.684584,02/05/2024,Blanco,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Algodón,58
+P0128,Vestido estampado,21,1083.974236,01/06/2024,Verde,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Lana,58
+P0860,Bufanda de lana,47,3168.632314,02/05/2024,Rojo,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Denim,58
+P0725,Camiseta algodón,37,1128.101635,01/31/2024,Blanco,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Denim,58
+P0403,Pantalón denim,11,1219.527775,01/17/2024,Verde,M,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Cuero,58
+P0968,Zapatos de cuero,26,1333.53681,02/10/2024,Negro,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,58
+P0540,Vestido estampado,17,882.6908299,01/23/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,58
+P0614,Zapatos de cuero,21,1104.511773,01/26/2024,Verde,S,Online,Urban Trends,Global Textiles Inc.,China,Cuero,58
+P0167,Zapatos de cuero,38,2204.167275,01/07/2024,Verde,M,Online,Modern Fusion,HighTech Materials S.A.,China,Cuero,58
+P0232,Camiseta algodón,7,240.1460734,01/10/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Lana,58
+P0327,Zapatos de cuero,29,1467.388563,01/14/2024,Verde,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,58
+P0739,Camiseta algodón,10,365.5530515,01/31/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,Turquía,Algodón,58
+P0829,Bufanda de lana,34,2091.513932,02/04/2024,Rojo,S,Online,Modern Fusion,HighTech Materials S.A.,China,Poliéster,58
+P0497,Zapatos de cuero,12,627.7861887,01/21/2024,Blanco,M,Online,Urban Trends,Global Textiles Inc.,India,Cuero,58
+P0482,Camiseta algodón,8,266.8528924,01/21/2024,Blanco,L,Online,Modern Fusion,HighTech Materials S.A.,India,Poliéster,58
+P0653,Bufanda de lana,32,2190.874934,01/28/2024,Verde,M,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Algodón,58
+P0238,Vestido estampado,21,894.9274436,01/10/2024,Verde,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Algodón,58
+P0341,Camiseta algodón,17,588.2677238,01/15/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Turquía,Poliéster,58
+P0873,Pantalón denim,48,4972.187666,02/06/2024,Blanco,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Poliéster,59
+P0930,Camiseta algodón,40,1406.024656,02/08/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Algodón,59
+P0001,Pantalón denim,32,3278.641581,01/01/2024,Rojo,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Lana,59
+P0262,Camiseta algodón,38,1187.479189,01/11/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Algodón,59
+P0178,Pantalón denim,36,4910.437149,01/08/2024,Azul,M,Online,Modern Fusion,Global Textiles Inc.,China,Poliéster,59
+P0530,Camiseta algodón,23,770.0976786,01/23/2024,Verde,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,59
+P0218,Zapatos de cuero,38,1773.423581,01/10/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Algodón,59
+P0565,Vestido estampado,9,431.8600869,01/24/2024,Verde,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,India,Poliéster,59
+P0273,Camiseta algodón,48,1529.823684,01/12/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Turquía,Poliéster,59
+P0813,Bufanda de lana,3,226.7577611,02/03/2024,Azul,L,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Cuero,59
+P0779,Bufanda de lana,22,1560.625059,02/02/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Poliéster,59
+P0445,Vestido estampado,23,1129.912885,01/19/2024,Blanco,XL,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Lana,59
+P0418,Pantalón denim,9,991.3542318,01/18/2024,Blanco,M,Tienda física,Classic Elegance,Global Textiles Inc.,China,Lana,59
+P0312,Vestido estampado,17,871.5411615,01/13/2024,Negro,XL,Online,Urban Trends,HighTech Materials S.A.,México,Cuero,59
+P0268,Zapatos de cuero,22,1179.120053,01/12/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Cuero,60
+P0679,Vestido estampado,35,1752.48485,01/29/2024,Negro,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Denim,60
+P0609,Bufanda de lana,44,3095.282189,01/26/2024,Verde,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Cuero,60
+P0675,Bufanda de lana,7,429.8673041,01/29/2024,Verde,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,Turquía,Poliéster,60
+P0585,Zapatos de cuero,41,2459.386306,01/25/2024,Rojo,L,Online,Urban Trends,HighTech Materials S.A.,Bangladesh,Denim,60
+P0576,Pantalón denim,28,2728.920423,01/24/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Lana,60
+P0667,Zapatos de cuero,4,208.9025982,01/28/2024,Rojo,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Denim,60
+P0567,Camiseta algodón,41,1344.651063,01/24/2024,Azul,L,Tienda física,Sporty Vibes,Global Textiles Inc.,México,Cuero,60
+P0961,Camiseta algodón,44,1506.821201,02/10/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,India,Denim,60
+P0695,Zapatos de cuero,20,969.7146413,01/29/2024,Azul,S,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Lana,60
+P0405,Camiseta algodón,44,1455.693268,01/17/2024,Blanco,S,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Denim,60
+P0752,Pantalón denim,26,2990.113349,02/01/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Cuero,60
+P0440,Vestido estampado,42,2325.199973,01/19/2024,Blanco,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Poliéster,60
+P0832,Camiseta algodón,45,1684.258276,02/04/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,60
+P0815,Zapatos de cuero,41,2067.558786,02/03/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,60
+P0392,Bufanda de lana,43,2809.28166,01/17/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Denim,60
+P0187,Zapatos de cuero,37,1925.108279,01/08/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,India,Cuero,60
+P0183,Zapatos de cuero,42,1929.123815,01/08/2024,Verde,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Lana,60
+P0518,Pantalón denim,24,2655.931085,01/22/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,60
+P0754,Zapatos de cuero,26,1505.908854,02/01/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Denim,60
+P0478,Pantalón denim,45,5534.687389,01/20/2024,Blanco,XL,Online,Urban Trends,Global Textiles Inc.,México,Algodón,60
+P0598,Camiseta algodón,34,1141.780914,01/25/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,China,Denim,61
+P0332,Pantalón denim,48,4896.968712,01/14/2024,Negro,M,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Poliéster,61
+P0550,Bufanda de lana,31,2206.859188,01/23/2024,Blanco,XL,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Lana,61
+P0395,Bufanda de lana,35,2405.983078,01/17/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,China,Lana,61
+P0941,Pantalón denim,24,2833.709792,02/09/2024,Azul,L,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,61
+P0630,Pantalón denim,29,3731.300592,01/27/2024,Rojo,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Denim,61
+P0355,Pantalón denim,42,4430.282038,01/15/2024,Azul,S,Online,Urban Trends,Eco Fabrics Ltd.,Bangladesh,Cuero,61
+P1000,Vestido estampado,8,412.3693938,02/11/2024,Rojo,L,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Algodón,61
+P0651,Vestido estampado,8,429.9980803,01/28/2024,Blanco,M,Online,Modern Fusion,Eco Fabrics Ltd.,México,Poliéster,61
+P0021,Pantalón denim,17,1869.342165,01/01/2024,Rojo,S,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Denim,61
+P0075,Camiseta algodón,7,242.2216555,01/04/2024,Blanco,XL,Online,Modern Fusion,Eco Fabrics Ltd.,India,Denim,61
+P0760,Vestido estampado,30,1410.856208,02/01/2024,Negro,M,Online,Modern Fusion,Global Textiles Inc.,México,Denim,61
+P0136,Zapatos de cuero,14,714.5883129,01/06/2024,Azul,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Poliéster,61
+P0259,Vestido estampado,40,1976.814416,01/11/2024,Blanco,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Lana,61
+P0741,Pantalón denim,44,5283.56403,01/31/2024,Azul,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Poliéster,61
+P0193,Zapatos de cuero,23,1079.212966,01/09/2024,Negro,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Poliéster,61
+P0737,Zapatos de cuero,7,372.7968767,01/31/2024,Azul,XL,Tienda física,Classic Elegance,Global Textiles Inc.,México,Lana,61
+P0732,Camiseta algodón,30,1002.518474,01/31/2024,Blanco,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,China,Lana,61
+P0157,Vestido estampado,5,218.5870346,01/07/2024,Azul,S,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Poliéster,61
+P0248,Vestido estampado,7,328.2972273,01/11/2024,Verde,M,Online,Modern Fusion,Eco Fabrics Ltd.,Bangladesh,Cuero,61
+P0726,Camiseta algodón,14,412.4790203,01/31/2024,Verde,S,Online,Modern Fusion,Global Textiles Inc.,India,Lana,61
+P0684,Bufanda de lana,46,3000.874916,01/29/2024,Blanco,M,Tienda física,Sporty Vibes,Global Textiles Inc.,China,Lana,61
+P0033,Bufanda de lana,7,527.0972769,01/02/2024,Azul,S,Tienda física,Classic Elegance,Global Textiles Inc.,India,Lana,62
+P0865,Bufanda de lana,15,1013.657969,02/06/2024,Verde,S,Tienda física,Sporty Vibes,HighTech Materials S.A.,México,Denim,62
+P0476,Bufanda de lana,12,776.3992623,01/20/2024,Negro,M,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Lana,62
+P0214,Bufanda de lana,6,424.0559383,01/09/2024,Azul,XL,Online,Modern Fusion,Global Textiles Inc.,México,Lana,62
+P0488,Camiseta algodón,21,824.0649551,01/21/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,India,Lana,62
+P0697,Pantalón denim,23,2757.619359,01/30/2024,Azul,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Poliéster,62
+P0314,Bufanda de lana,13,975.5984787,01/14/2024,Blanco,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Poliéster,62
+P0600,Vestido estampado,5,506.6945938,01/25/2024,Rojo,L,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,62
+P0948,Zapatos de cuero,49,2372.640248,02/09/2024,Negro,L,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Cuero,62
+P0223,Camiseta algodón,49,1363.173112,01/10/2024,Verde,L,Online,Modern Fusion,Global Textiles Inc.,México,Denim,62
+P0949,Bufanda de lana,43,4184.05384,02/09/2024,Blanco,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,India,Denim,62
+P0002,Vestido estampado,45,2009.695473,01/01/2024,Verde,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Denim,62
+P0241,Zapatos de cuero,7,343.5002844,01/11/2024,Blanco,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,62
+P0088,Zapatos de cuero,16,780.002624,01/04/2024,Rojo,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Poliéster,62
+P0962,Zapatos de cuero,30,1743.605756,02/10/2024,Rojo,L,Online,Urban Trends,Eco Fabrics Ltd.,México,Cuero,63
+P0115,Zapatos de cuero,44,2152.708525,01/05/2024,Azul,S,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Algodón,63
+P0169,Vestido estampado,34,1730.547648,01/08/2024,Rojo,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Poliéster,63
+P0289,Pantalón denim,4,471.2257743,01/13/2024,Verde,M,Online,Modern Fusion,Global Textiles Inc.,India,Lana,63
+P0294,Vestido estampado,48,2154.993191,01/13/2024,Negro,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Poliéster,63
+P0101,Bufanda de lana,6,398.5001001,01/05/2024,Rojo,XL,Online,Modern Fusion,HighTech Materials S.A.,México,Lana,63
+P0121,Vestido estampado,1,56.97539285,01/06/2024,Rojo,M,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,63
+P0475,Vestido estampado,8,369.3442066,01/20/2024,Rojo,XL,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Denim,63
+P0641,Zapatos de cuero,49,2714.279094,01/27/2024,Blanco,XL,Online,Urban Trends,Eco Fabrics Ltd.,Turquía,Cuero,63
+P0878,Bufanda de lana,48,3127.14153,02/06/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Algodón,63
+P0410,Vestido estampado,18,871.4501022,01/18/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,México,Lana,63
+P0727,Zapatos de cuero,39,2198.122092,01/31/2024,Blanco,L,Tienda física,Classic Elegance,Global Textiles Inc.,China,Cuero,63
+P0774,Vestido estampado,43,2243.034956,02/02/2024,Rojo,XL,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,63
+P0467,Camiseta algodón,41,1354.233819,01/20/2024,Azul,L,Online,Modern Fusion,Global Textiles Inc.,China,Algodón,63
+P0923,Vestido estampado,21,1091.506998,02/08/2024,Blanco,M,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Poliéster,63
+P0749,Pantalón denim,32,3418.349314,02/01/2024,Verde,M,Tienda física,Classic Elegance,Global Textiles Inc.,México,Denim,63
+P0753,Camiseta algodón,39,1280.389145,02/01/2024,Negro,S,Online,Urban Trends,HighTech Materials S.A.,China,Denim,63
+P0889,Vestido estampado,11,629.3456858,02/07/2024,Negro,S,Tienda física,Sporty Vibes,Global Textiles Inc.,India,Algodón,63
+P0927,Pantalón denim,4,446.9987579,02/08/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,India,Cuero,63
+P0717,Camiseta algodón,46,1719.352142,01/30/2024,Negro,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Denim,64
+P0415,Pantalón denim,34,3596.557908,01/18/2024,Verde,XL,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Denim,64
+P0759,Zapatos de cuero,20,1019.174463,02/01/2024,Blanco,M,Online,Urban Trends,Eco Fabrics Ltd.,México,Cuero,64
+P0886,Zapatos de cuero,1,55.63924146,02/06/2024,Azul,L,Online,Modern Fusion,Eco Fabrics Ltd.,China,Algodón,64
+P0111,Bufanda de lana,11,725.8732408,01/05/2024,Azul,S,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,64
+P0102,Zapatos de cuero,23,1119.097895,01/05/2024,Negro,S,Online,Urban Trends,Eco Fabrics Ltd.,India,Algodón,64
+P0038,Pantalón denim,41,4025.355053,01/02/2024,Verde,L,Tienda física,Classic Elegance,HighTech Materials S.A.,India,Cuero,64
+P0909,Zapatos de cuero,3,177.0880825,02/07/2024,Rojo,S,Online,Modern Fusion,Global Textiles Inc.,México,Cuero,64
+P0756,Pantalón denim,24,2775.77687,02/01/2024,Negro,XL,Online,Urban Trends,Eco Fabrics Ltd.,India,Cuero,64
+P0723,Camiseta algodón,16,551.9425831,01/31/2024,Rojo,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Algodón,64
+P0460,Pantalón denim,29,3162.595687,01/20/2024,Rojo,M,Tienda física,Classic Elegance,Global Textiles Inc.,Turquía,Cuero,64
+P0396,Pantalón denim,1,117.2237876,01/17/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,India,Poliéster,64
+P0493,Pantalón denim,15,1912.03194,01/21/2024,Azul,M,Online,Modern Fusion,HighTech Materials S.A.,México,Denim,64
+P0581,Bufanda de lana,22,1643.744599,01/25/2024,Blanco,XL,Online,Modern Fusion,Global Textiles Inc.,India,Algodón,64
+P0329,Pantalón denim,17,3251.047953,01/14/2024,Negro,S,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,64
+P0502,Zapatos de cuero,43,2378.630792,01/21/2024,Negro,M,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Poliéster,64
+P0446,Pantalón denim,2,233.7912173,01/19/2024,Azul,S,Tienda física,Sporty Vibes,Global Textiles Inc.,Bangladesh,Poliéster,64
+P0302,Zapatos de cuero,16,860.5052687,01/13/2024,Negro,M,Tienda física,Classic Elegance,HighTech Materials S.A.,Bangladesh,Denim,64
+P0797,Vestido estampado,2,98.32560174,02/03/2024,Azul,S,Online,Modern Fusion,HighTech Materials S.A.,Bangladesh,Denim,65
+P0950,Camiseta algodón,22,620.3819216,02/09/2024,Verde,XL,Tienda física,Classic Elegance,HighTech Materials S.A.,China,Algodón,65
+P0261,Vestido estampado,44,3724.922652,01/11/2024,Azul,XL,Online,Urban Trends,HighTech Materials S.A.,México,Lana,65
+P0439,Pantalón denim,1,206.8289862,01/19/2024,Verde,M,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Denim,65
+P0826,Vestido estampado,29,1350.769163,02/04/2024,Rojo,L,Online,Modern Fusion,Eco Fabrics Ltd.,India,Poliéster,65
+P0850,Zapatos de cuero,45,2485.516838,02/05/2024,Rojo,M,Online,Modern Fusion,Global Textiles Inc.,México,Lana,65
+P0010,Vestido estampado,21,1102.269792,01/01/2024,Azul,XL,Online,Urban Trends,Eco Fabrics Ltd.,México,Denim,65
+P0852,Vestido estampado,31,1387.534484,02/05/2024,Blanco,L,Online,Modern Fusion,Eco Fabrics Ltd.,México,Denim,65
+P0053,Zapatos de cuero,49,2576.325982,01/03/2024,Negro,L,Tienda física,Classic Elegance,Global Textiles Inc.,Bangladesh,Denim,65
+P0825,Bufanda de lana,29,2623.971415,02/04/2024,Verde,L,Online,Modern Fusion,Eco Fabrics Ltd.,Turquía,Algodón,65
+P0127,Pantalón denim,36,4257.389561,01/06/2024,Rojo,XL,Tienda física,Sporty Vibes,HighTech Materials S.A.,Bangladesh,Cuero,65
+P0770,Zapatos de cuero,41,2351.134352,02/02/2024,Azul,M,Online,Modern Fusion,Global Textiles Inc.,Bangladesh,Algodón,65
+P0632,Zapatos de cuero,37,1977.618059,01/27/2024,Verde,L,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Bangladesh,Algodón,65
+P0336,Zapatos de cuero,24,1443.266642,01/14/2024,Blanco,M,Tienda física,Classic Elegance,Eco Fabrics Ltd.,Turquía,Denim,65
+P0140,Vestido estampado,7,326.8541992,01/06/2024,Verde,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Bangladesh,Algodón,65
+P0566,Camiseta algodón,40,1378.283448,01/24/2024,Verde,M,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,China,Cuero,65
+P0738,Vestido estampado,42,1927.056056,01/31/2024,Azul,XL,Online,Modern Fusion,HighTech Materials S.A.,Turquía,Lana,65
+P0299,Camiseta algodón,5,157.2804575,01/13/2024,Blanco,S,Online,Modern Fusion,Global Textiles Inc.,México,Poliéster,65
+P0582,Zapatos de cuero,11,1005.17549,01/25/2024,Blanco,M,Tienda física,Classic Elegance,HighTech Materials S.A.,México,Denim,65
+P0701,Zapatos de cuero,32,1711.616257,01/30/2024,Blanco,L,Online,Modern Fusion,Global Textiles Inc.,Turquía,Denim,65
+P0621,Vestido estampado,26,1403.967315,01/26/2024,Rojo,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Poliéster,65
+P0629,Camiseta algodón,14,462.4221601,01/27/2024,Azul,XL,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,México,Cuero,65
+P0112,Bufanda de lana,1,70.50467012,01/05/2024,Negro,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,India,Poliéster,65
+P0853,Pantalón denim,29,5565.788842,02/05/2024,Verde,L,Tienda física,Sporty Vibes,Eco Fabrics Ltd.,Turquía,Algodón,65
